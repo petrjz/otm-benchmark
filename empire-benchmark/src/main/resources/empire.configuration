@@ -1,7 +1,0 @@
-annotation.index=annotation.properties
-
-0.name=empire
-0.factory=sesame
-#0.url=http://localhost:18188/rdf4j-server/
-0.url=http://localhost:7200/
-0.repo=benchmark
