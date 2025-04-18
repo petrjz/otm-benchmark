@@ -4,6 +4,8 @@ import cz.cvut.kbss.benchmark.AbstractBenchmark;
 import cz.cvut.kbss.benchmark.BenchmarkRunner;
 
 public class JopaBenchmark extends AbstractBenchmark {
+    protected static final String READ_ONLY_RETRIEVE = "read-only-retrieve";
+    protected static final String READ_ONLY_RETRIEVE_ALL = "read-only-retrieve-all";
 
     public static void main(String[] args) {
         final JopaBenchmark benchmark = new JopaBenchmark();
@@ -25,6 +27,10 @@ public class JopaBenchmark extends AbstractBenchmark {
                 return new UpdateBenchmarkRunner();
             case DELETE:
                 return new DeleteBenchmarkRunner();
+            case READ_ONLY_RETRIEVE:
+                return new ReadOnlyRetrieveBenchmarkRunner();
+            case READ_ONLY_RETRIEVE_ALL:
+                return new ReadOnlyRetrieveAllBenchmarkRunner();
             default:
                 throw new IllegalArgumentException("Unsupported benchmark type " + type + '.');
         }
