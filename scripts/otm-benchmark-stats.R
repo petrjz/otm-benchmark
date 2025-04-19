@@ -7,7 +7,8 @@
 # provider - provider name corresponding to the pattern used in file names, i.e., lowercase
 # heap - heap size corresponding to the directory naming pattern, e.g., 32m, 1g
 performance_stats <- function(baseDir, operation, provider, heap) {
-  file <- paste(baseDir, sprintf("%s/%s-benchmark_%s.data", heap, provider, operation), sep='')
+  file <- paste(baseDir, sprintf("%s/%s-benchmark-%s.data", heap, provider, operation), sep='')
+  print(file)
   tryres <- try(read.table(file, quote="\"", comment.char=""), silent = TRUE)
   if (class(tryres) == "try-error") {
     result <- list()
@@ -22,3 +23,10 @@ performance_stats <- function(baseDir, operation, provider, heap) {
   result$ci_upper <- result$mean + qnorm(0.975)*(result$sd/sqrt(300))
   return(result)
 }
+
+# TODO: for each heap: for each operation
+# heap: 32m, 64m, 128m, 512m, 1g
+# operation: retrieve, read-only_retrieve, retrieve-all, read-only_retrieve-all
+result <- performance_stats("/home/petrjz/ownCloud/master/codes/forks/otm-benchmark/data-new/", "read-only_retrieve-all" , "jopa", "1g")
+
+print(result)
