@@ -4,3 +4,10 @@
 data
 memory
 benchmark.log
+.Rproj.user
+.RData
+.Rhistory
+scripts/scripts.Rproj
+.classpath
+.project
+.settings
