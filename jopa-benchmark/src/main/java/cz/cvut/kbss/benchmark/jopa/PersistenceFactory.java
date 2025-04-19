@@ -7,6 +7,8 @@ import cz.cvut.kbss.jopa.model.EntityManagerFactory;
 import cz.cvut.kbss.jopa.model.JOPAPersistenceProperties;
 import cz.cvut.kbss.jopa.model.JOPAPersistenceProvider;
 import cz.cvut.kbss.ontodriver.rdf4j.config.Rdf4jOntoDriverProperties;
+import org.eclipse.rdf4j.rio.RDFWriterRegistry;
+import org.eclipse.rdf4j.rio.binary.BinaryRDFWriterFactory;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -18,7 +20,7 @@ class PersistenceFactory {
 
     PersistenceFactory() {
         // When running in a jar, RDF4J for some reason does not register appropriate RDF writer factories
-//        RDFWriterRegistry.getInstance().add(new BinaryRDFWriterFactory());
+        RDFWriterRegistry.getInstance().add(new BinaryRDFWriterFactory());
         final Map<String, String> properties = new HashMap<>();
         if (Config.getRepoUrl().isPresent()) {
             properties.put(JOPAPersistenceProperties.ONTOLOGY_PHYSICAL_URI_KEY, Config.getRepoUrl().get());
@@ -36,6 +38,12 @@ class PersistenceFactory {
 
     EntityManager entityManager() {
         return emf.createEntityManager();
+    }
+
+    EntityManager readOnlyEntityManager() {
+        Map<String, String> map = new HashMap<>();
+        map.put(JOPAPersistenceProperties.TRANSACTION_MODE, "read_only");
+        return emf.createEntityManager(map);
     }
 
     void close() {
