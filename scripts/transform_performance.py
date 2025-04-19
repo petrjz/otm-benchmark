@@ -1,4 +1,5 @@
 import sys
+import glob
 from os import listdir
 
 
@@ -11,17 +12,9 @@ class Transformer:
 
     CLI parameters are: directory containing the result files and target file
     """
-    PROVIDERS = {"alibaba": "AliBaba",
-                 "empire": "Empire",
-                 "jopa": "JOPA",
-                 "komma": "KOMMA",
-                 "rdfbeans": "RDFBeans"}
-    OPERATIONS = {"create": "OP1 - Create",
-                  "create-batch": "OP2 - Batch create",
-                  "retrieve": "OP3 - Retrieve",
-                  "retrieve-all": "OP4 - Retrieve all",
-                  "update": "OP5 - Update",
-                  "delete": "OP6 - Delete"
+    OPERATIONS = {
+                  "retrieve": "OP1 - Retrieve",
+                  "retrieve-all": "OP2 - Retrieve all",
                   }
 
     def __init__(self, directory, target):
@@ -32,21 +25,22 @@ class Transformer:
         out = open(self.target, 'w')
         out.write('operation,provider,time,time_s\n')
         out.close()
-        files = listdir(self.directory)
-        files.sort()
-        for file in files:
-            self.transform_file(file)
+        for operation_path in Transformer.OPERATIONS.keys():
+            file_paths = glob.glob(f"{self.directory}/jopa-benchmark*_{operation_path}.data")
+            for file_path in file_paths:
+                print(file_path)
+                self.transform_file(file_path)
         print("Data written into file " + str(self.target))
 
-    def transform_file(self, filename):
+    def transform_file(self, file_path):
         path = str(self.directory)
         if not path.endswith('/'):
             path += '/'
-        file = open(path + filename, 'r')
-        print("Loading data from file " + str(file.name))
+        file = open(file_path, 'r')
         out = open(self.target, 'a')
-        operation = Transformer.resolve_operation_name(filename[filename.find('_') + 1:filename.find('.')])
-        provider = Transformer.resolve_provider_name(filename[0:filename.find('-')])
+        operation = Transformer.resolve_operation_name(file_path.split('_')[1].replace(".data", ""))
+        provider = "Read-only" if "read-only" in file_path.split('_')[0] else "Read-write"
+
         i = 0
         for line in file:
             i = i + 1
@@ -58,10 +52,6 @@ class Transformer:
     @staticmethod
     def resolve_operation_name(operation):
         return Transformer.OPERATIONS.get(operation)
-
-    @staticmethod
-    def resolve_provider_name(provider):
-        return Transformer.PROVIDERS.get(provider)
 
 
 if __name__ == "__main__":
