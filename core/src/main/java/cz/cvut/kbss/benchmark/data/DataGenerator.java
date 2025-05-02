@@ -107,7 +107,7 @@ public abstract class DataGenerator<P extends Person, R extends OccurrenceReport
     protected abstract Occurrence occurrence();
 
     private String generateKey() {
-        return Long.toString(System.currentTimeMillis()) + random.nextInt();
+        return Long.toString(System.nanoTime()) + random.nextInt();
     }
 
     private Set<Event> generateEventHierarchy(Occurrence occurrence) {
