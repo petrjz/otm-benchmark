@@ -57,22 +57,22 @@ execute_with_provider()
     echo "Retrieve..."
     echo "*** RETRIEVE ***" >> ../../${OUTPUT}
     ${JAVA} -jar -Xms${2} -Xmx${2} -Dlogback.configurationFile=${LOGFILE} ${1}.jar -w ${WARMUPS} -r ${ROUNDS} -o ../../${DATA_DIR}/${2}/factor${3}/${1}_retrieve.data -f ${3} retrieve >> ../../${OUTPUT}
-    restart_repository
+    # restart_repository
 
     echo "Retrieve all..."
     echo "*** RETRIEVE ALL ***" >> ../../${OUTPUT}
     ${JAVA} -jar -Xms${2} -Xmx${2} -Dlogback.configurationFile=${LOGFILE} ${1}.jar -w ${WARMUPS} -r ${ROUNDS} -o ../../${DATA_DIR}/${2}/factor${3}/${1}_retrieve-all.data -f ${3} retrieve-all >> ../../${OUTPUT}
-    restart_repository
+    # restart_repository
 
     echo "Read-only Retrieve..."
     echo "*** READ-ONLY RETRIEVE ***" >> ../../${OUTPUT}
     ${JAVA} -jar -Xms${2} -Xmx${2} -Dlogback.configurationFile=${LOGFILE} ${1}.jar -w ${WARMUPS} -r ${ROUNDS} -o ../../${DATA_DIR}/${2}/factor${3}/${1}-read-only_retrieve.data -f ${3} read-only-retrieve >> ../../${OUTPUT}
-    restart_repository
+    # restart_repository
 
     echo "Read-only Retrieve all..."
     echo "*** READ-ONLY RETRIEVE ALL ***" >> ../../${OUTPUT}
     ${JAVA} -jar -Xms${2} -Xmx${2} -Dlogback.configurationFile=${LOGFILE} ${1}.jar -w ${WARMUPS} -r ${ROUNDS} -o ../../${DATA_DIR}/${2}/factor${3}/${1}-read-only_retrieve-all.data -f ${3} read-only-retrieve-all >> ../../${OUTPUT}
-    restart_repository
+    # restart_repository
     cd ../..
 }
 
@@ -88,7 +88,7 @@ execute_round()
 
 execute_benchmark()
 {
-    start_repository
+    # start_repository
 
     mkdir -p ${DATA_DIR}/${1}/factor${2}/
 
@@ -103,7 +103,7 @@ execute_benchmark()
         execute_round ${1} ${2}
     done
 
-    stop_repository
+    # stop_repository
 }
 
 > ${OUTPUT}
