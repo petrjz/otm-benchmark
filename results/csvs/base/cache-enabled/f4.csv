@@ -1,0 +1,2001 @@
+Operation,Transaction mode,time,time_s
+OP1 - Retrieve,Read-only,456.57,0.457
+OP1 - Retrieve,Read-only,452.9,0.453
+OP1 - Retrieve,Read-only,464.32,0.464
+OP1 - Retrieve,Read-only,466.67,0.467
+OP1 - Retrieve,Read-only,463.48,0.463
+OP1 - Retrieve,Read-only,463.51,0.464
+OP1 - Retrieve,Read-only,463.06,0.463
+OP1 - Retrieve,Read-only,461.46,0.461
+OP1 - Retrieve,Read-only,452.26,0.452
+OP1 - Retrieve,Read-only,449.21,0.449
+OP1 - Retrieve,Read-only,454.33,0.454
+OP1 - Retrieve,Read-only,449.87,0.45
+OP1 - Retrieve,Read-only,452.12,0.452
+OP1 - Retrieve,Read-only,452.6,0.453
+OP1 - Retrieve,Read-only,452.0,0.452
+OP1 - Retrieve,Read-only,448.69,0.449
+OP1 - Retrieve,Read-only,447.25,0.447
+OP1 - Retrieve,Read-only,447.33,0.447
+OP1 - Retrieve,Read-only,454.47,0.454
+OP1 - Retrieve,Read-only,455.88,0.456
+OP1 - Retrieve,Read-only,456.34,0.456
+OP1 - Retrieve,Read-only,457.88,0.458
+OP1 - Retrieve,Read-only,455.91,0.456
+OP1 - Retrieve,Read-only,453.88,0.454
+OP1 - Retrieve,Read-only,450.43,0.45
+OP1 - Retrieve,Read-only,460.0,0.46
+OP1 - Retrieve,Read-only,454.77,0.455
+OP1 - Retrieve,Read-only,456.44,0.456
+OP1 - Retrieve,Read-only,460.61,0.461
+OP1 - Retrieve,Read-only,455.2,0.455
+OP1 - Retrieve,Read-only,458.88,0.459
+OP1 - Retrieve,Read-only,454.93,0.455
+OP1 - Retrieve,Read-only,445.58,0.446
+OP1 - Retrieve,Read-only,450.23,0.45
+OP1 - Retrieve,Read-only,451.89,0.452
+OP1 - Retrieve,Read-only,454.26,0.454
+OP1 - Retrieve,Read-only,455.42,0.455
+OP1 - Retrieve,Read-only,455.11,0.455
+OP1 - Retrieve,Read-only,455.54,0.456
+OP1 - Retrieve,Read-only,458.19,0.458
+OP1 - Retrieve,Read-only,457.4,0.457
+OP1 - Retrieve,Read-only,457.25,0.457
+OP1 - Retrieve,Read-only,457.78,0.458
+OP1 - Retrieve,Read-only,452.25,0.452
+OP1 - Retrieve,Read-only,448.53,0.449
+OP1 - Retrieve,Read-only,450.12,0.45
+OP1 - Retrieve,Read-only,457.09,0.457
+OP1 - Retrieve,Read-only,449.51,0.45
+OP1 - Retrieve,Read-only,459.99,0.46
+OP1 - Retrieve,Read-only,459.16,0.459
+OP1 - Retrieve,Read-only,457.06,0.457
+OP1 - Retrieve,Read-only,458.55,0.459
+OP1 - Retrieve,Read-only,457.82,0.458
+OP1 - Retrieve,Read-only,460.11,0.46
+OP1 - Retrieve,Read-only,460.98,0.461
+OP1 - Retrieve,Read-only,465.45,0.465
+OP1 - Retrieve,Read-only,458.73,0.459
+OP1 - Retrieve,Read-only,460.16,0.46
+OP1 - Retrieve,Read-only,461.82,0.462
+OP1 - Retrieve,Read-only,457.37,0.457
+OP1 - Retrieve,Read-only,456.52,0.457
+OP1 - Retrieve,Read-only,458.67,0.459
+OP1 - Retrieve,Read-only,460.25,0.46
+OP1 - Retrieve,Read-only,455.74,0.456
+OP1 - Retrieve,Read-only,455.21,0.455
+OP1 - Retrieve,Read-only,452.96,0.453
+OP1 - Retrieve,Read-only,457.87,0.458
+OP1 - Retrieve,Read-only,450.41,0.45
+OP1 - Retrieve,Read-only,447.55,0.448
+OP1 - Retrieve,Read-only,447.74,0.448
+OP1 - Retrieve,Read-only,449.59,0.45
+OP1 - Retrieve,Read-only,448.48,0.448
+OP1 - Retrieve,Read-only,463.25,0.463
+OP1 - Retrieve,Read-only,462.47,0.462
+OP1 - Retrieve,Read-only,459.64,0.46
+OP1 - Retrieve,Read-only,464.39,0.464
+OP1 - Retrieve,Read-only,457.01,0.457
+OP1 - Retrieve,Read-only,461.68,0.462
+OP1 - Retrieve,Read-only,459.16,0.459
+OP1 - Retrieve,Read-only,459.27,0.459
+OP1 - Retrieve,Read-only,446.61,0.447
+OP1 - Retrieve,Read-only,449.34,0.449
+OP1 - Retrieve,Read-only,449.62,0.45
+OP1 - Retrieve,Read-only,443.41,0.443
+OP1 - Retrieve,Read-only,455.92,0.456
+OP1 - Retrieve,Read-only,461.0,0.461
+OP1 - Retrieve,Read-only,457.3,0.457
+OP1 - Retrieve,Read-only,446.62,0.447
+OP1 - Retrieve,Read-only,448.32,0.448
+OP1 - Retrieve,Read-only,445.99,0.446
+OP1 - Retrieve,Read-only,457.82,0.458
+OP1 - Retrieve,Read-only,448.04,0.448
+OP1 - Retrieve,Read-only,455.25,0.455
+OP1 - Retrieve,Read-only,463.65,0.464
+OP1 - Retrieve,Read-only,459.18,0.459
+OP1 - Retrieve,Read-only,454.45,0.454
+OP1 - Retrieve,Read-only,457.3,0.457
+OP1 - Retrieve,Read-only,455.69,0.456
+OP1 - Retrieve,Read-only,454.92,0.455
+OP1 - Retrieve,Read-only,458.89,0.459
+OP1 - Retrieve,Read-only,465.42,0.465
+OP1 - Retrieve,Read-only,455.4,0.455
+OP1 - Retrieve,Read-only,461.1,0.461
+OP1 - Retrieve,Read-only,466.6,0.467
+OP1 - Retrieve,Read-only,463.25,0.463
+OP1 - Retrieve,Read-only,460.61,0.461
+OP1 - Retrieve,Read-only,467.94,0.468
+OP1 - Retrieve,Read-only,464.14,0.464
+OP1 - Retrieve,Read-only,462.69,0.463
+OP1 - Retrieve,Read-only,467.87,0.468
+OP1 - Retrieve,Read-only,469.45,0.469
+OP1 - Retrieve,Read-only,466.08,0.466
+OP1 - Retrieve,Read-only,472.03,0.472
+OP1 - Retrieve,Read-only,470.16,0.47
+OP1 - Retrieve,Read-only,467.65,0.468
+OP1 - Retrieve,Read-only,462.08,0.462
+OP1 - Retrieve,Read-only,463.25,0.463
+OP1 - Retrieve,Read-only,459.12,0.459
+OP1 - Retrieve,Read-only,458.07,0.458
+OP1 - Retrieve,Read-only,462.15,0.462
+OP1 - Retrieve,Read-only,457.18,0.457
+OP1 - Retrieve,Read-only,463.1,0.463
+OP1 - Retrieve,Read-only,471.74,0.472
+OP1 - Retrieve,Read-only,468.93,0.469
+OP1 - Retrieve,Read-only,474.49,0.474
+OP1 - Retrieve,Read-only,468.36,0.468
+OP1 - Retrieve,Read-only,470.12,0.47
+OP1 - Retrieve,Read-only,477.93,0.478
+OP1 - Retrieve,Read-only,471.58,0.472
+OP1 - Retrieve,Read-only,468.05,0.468
+OP1 - Retrieve,Read-only,470.69,0.471
+OP1 - Retrieve,Read-only,471.31,0.471
+OP1 - Retrieve,Read-only,470.44,0.47
+OP1 - Retrieve,Read-only,468.73,0.469
+OP1 - Retrieve,Read-only,468.84,0.469
+OP1 - Retrieve,Read-only,466.94,0.467
+OP1 - Retrieve,Read-only,471.27,0.471
+OP1 - Retrieve,Read-only,464.61,0.465
+OP1 - Retrieve,Read-only,466.19,0.466
+OP1 - Retrieve,Read-only,473.17,0.473
+OP1 - Retrieve,Read-only,471.5,0.471
+OP1 - Retrieve,Read-only,476.31,0.476
+OP1 - Retrieve,Read-only,470.38,0.47
+OP1 - Retrieve,Read-only,470.95,0.471
+OP1 - Retrieve,Read-only,470.09,0.47
+OP1 - Retrieve,Read-only,471.12,0.471
+OP1 - Retrieve,Read-only,469.36,0.469
+OP1 - Retrieve,Read-only,470.2,0.47
+OP1 - Retrieve,Read-only,470.02,0.47
+OP1 - Retrieve,Read-only,471.17,0.471
+OP1 - Retrieve,Read-only,472.61,0.473
+OP1 - Retrieve,Read-only,473.49,0.473
+OP1 - Retrieve,Read-only,469.45,0.469
+OP1 - Retrieve,Read-only,471.05,0.471
+OP1 - Retrieve,Read-only,470.25,0.47
+OP1 - Retrieve,Read-only,470.01,0.47
+OP1 - Retrieve,Read-only,477.57,0.478
+OP1 - Retrieve,Read-only,468.62,0.469
+OP1 - Retrieve,Read-only,466.06,0.466
+OP1 - Retrieve,Read-only,462.88,0.463
+OP1 - Retrieve,Read-only,469.08,0.469
+OP1 - Retrieve,Read-only,468.63,0.469
+OP1 - Retrieve,Read-only,464.57,0.465
+OP1 - Retrieve,Read-only,475.35,0.475
+OP1 - Retrieve,Read-only,469.52,0.47
+OP1 - Retrieve,Read-only,477.06,0.477
+OP1 - Retrieve,Read-only,478.15,0.478
+OP1 - Retrieve,Read-only,476.83,0.477
+OP1 - Retrieve,Read-only,471.41,0.471
+OP1 - Retrieve,Read-only,467.93,0.468
+OP1 - Retrieve,Read-only,471.4,0.471
+OP1 - Retrieve,Read-only,471.71,0.472
+OP1 - Retrieve,Read-only,470.91,0.471
+OP1 - Retrieve,Read-only,469.44,0.469
+OP1 - Retrieve,Read-only,468.41,0.468
+OP1 - Retrieve,Read-only,476.12,0.476
+OP1 - Retrieve,Read-only,477.94,0.478
+OP1 - Retrieve,Read-only,468.23,0.468
+OP1 - Retrieve,Read-only,473.07,0.473
+OP1 - Retrieve,Read-only,473.37,0.473
+OP1 - Retrieve,Read-only,473.2,0.473
+OP1 - Retrieve,Read-only,474.06,0.474
+OP1 - Retrieve,Read-only,467.23,0.467
+OP1 - Retrieve,Read-only,462.7,0.463
+OP1 - Retrieve,Read-only,463.97,0.464
+OP1 - Retrieve,Read-only,465.78,0.466
+OP1 - Retrieve,Read-only,475.47,0.475
+OP1 - Retrieve,Read-only,467.64,0.468
+OP1 - Retrieve,Read-only,465.43,0.465
+OP1 - Retrieve,Read-only,471.37,0.471
+OP1 - Retrieve,Read-only,470.73,0.471
+OP1 - Retrieve,Read-only,471.22,0.471
+OP1 - Retrieve,Read-only,472.75,0.473
+OP1 - Retrieve,Read-only,471.73,0.472
+OP1 - Retrieve,Read-only,466.28,0.466
+OP1 - Retrieve,Read-only,466.07,0.466
+OP1 - Retrieve,Read-only,470.19,0.47
+OP1 - Retrieve,Read-only,473.95,0.474
+OP1 - Retrieve,Read-only,475.4,0.475
+OP1 - Retrieve,Read-only,477.54,0.478
+OP1 - Retrieve,Read-only,473.12,0.473
+OP1 - Retrieve,Read-only,462.84,0.463
+OP1 - Retrieve,Read-only,466.84,0.467
+OP1 - Retrieve,Read-only,467.05,0.467
+OP1 - Retrieve,Read-only,464.04,0.464
+OP1 - Retrieve,Read-only,467.85,0.468
+OP1 - Retrieve,Read-only,463.81,0.464
+OP1 - Retrieve,Read-only,464.77,0.465
+OP1 - Retrieve,Read-only,468.48,0.468
+OP1 - Retrieve,Read-only,463.75,0.464
+OP1 - Retrieve,Read-only,459.86,0.46
+OP1 - Retrieve,Read-only,465.44,0.465
+OP1 - Retrieve,Read-only,458.93,0.459
+OP1 - Retrieve,Read-only,464.63,0.465
+OP1 - Retrieve,Read-only,464.9,0.465
+OP1 - Retrieve,Read-only,464.73,0.465
+OP1 - Retrieve,Read-only,464.64,0.465
+OP1 - Retrieve,Read-only,460.88,0.461
+OP1 - Retrieve,Read-only,464.33,0.464
+OP1 - Retrieve,Read-only,468.29,0.468
+OP1 - Retrieve,Read-only,466.44,0.466
+OP1 - Retrieve,Read-only,459.71,0.46
+OP1 - Retrieve,Read-only,463.74,0.464
+OP1 - Retrieve,Read-only,461.43,0.461
+OP1 - Retrieve,Read-only,464.86,0.465
+OP1 - Retrieve,Read-only,460.46,0.46
+OP1 - Retrieve,Read-only,463.14,0.463
+OP1 - Retrieve,Read-only,464.6,0.465
+OP1 - Retrieve,Read-only,464.98,0.465
+OP1 - Retrieve,Read-only,464.56,0.465
+OP1 - Retrieve,Read-only,467.65,0.468
+OP1 - Retrieve,Read-only,452.34,0.452
+OP1 - Retrieve,Read-only,450.48,0.45
+OP1 - Retrieve,Read-only,464.72,0.465
+OP1 - Retrieve,Read-only,463.38,0.463
+OP1 - Retrieve,Read-only,463.97,0.464
+OP1 - Retrieve,Read-only,464.33,0.464
+OP1 - Retrieve,Read-only,464.89,0.465
+OP1 - Retrieve,Read-only,459.48,0.459
+OP1 - Retrieve,Read-only,461.73,0.462
+OP1 - Retrieve,Read-only,459.47,0.459
+OP1 - Retrieve,Read-only,460.61,0.461
+OP1 - Retrieve,Read-only,465.49,0.465
+OP1 - Retrieve,Read-only,466.71,0.467
+OP1 - Retrieve,Read-only,462.22,0.462
+OP1 - Retrieve,Read-only,465.0,0.465
+OP1 - Retrieve,Read-only,465.33,0.465
+OP1 - Retrieve,Read-only,453.11,0.453
+OP1 - Retrieve,Read-only,447.97,0.448
+OP1 - Retrieve,Read-only,455.12,0.455
+OP1 - Retrieve,Read-only,447.1,0.447
+OP1 - Retrieve,Read-only,453.47,0.453
+OP1 - Retrieve,Read-only,450.85,0.451
+OP1 - Retrieve,Read-only,460.95,0.461
+OP1 - Retrieve,Read-only,460.46,0.46
+OP1 - Retrieve,Read-only,462.84,0.463
+OP1 - Retrieve,Read-only,451.99,0.452
+OP1 - Retrieve,Read-only,454.59,0.455
+OP1 - Retrieve,Read-only,453.07,0.453
+OP1 - Retrieve,Read-only,452.14,0.452
+OP1 - Retrieve,Read-only,448.33,0.448
+OP1 - Retrieve,Read-only,463.7,0.464
+OP1 - Retrieve,Read-only,468.05,0.468
+OP1 - Retrieve,Read-only,462.5,0.463
+OP1 - Retrieve,Read-only,451.4,0.451
+OP1 - Retrieve,Read-only,452.92,0.453
+OP1 - Retrieve,Read-only,451.33,0.451
+OP1 - Retrieve,Read-only,456.05,0.456
+OP1 - Retrieve,Read-only,457.82,0.458
+OP1 - Retrieve,Read-only,448.74,0.449
+OP1 - Retrieve,Read-only,452.18,0.452
+OP1 - Retrieve,Read-only,452.67,0.453
+OP1 - Retrieve,Read-only,452.55,0.453
+OP1 - Retrieve,Read-only,452.66,0.453
+OP1 - Retrieve,Read-only,455.21,0.455
+OP1 - Retrieve,Read-only,457.14,0.457
+OP1 - Retrieve,Read-only,449.24,0.449
+OP1 - Retrieve,Read-only,456.12,0.456
+OP1 - Retrieve,Read-only,453.1,0.453
+OP1 - Retrieve,Read-only,449.79,0.45
+OP1 - Retrieve,Read-only,453.65,0.454
+OP1 - Retrieve,Read-only,460.59,0.461
+OP1 - Retrieve,Read-only,457.1,0.457
+OP1 - Retrieve,Read-only,463.24,0.463
+OP1 - Retrieve,Read-only,462.93,0.463
+OP1 - Retrieve,Read-only,464.29,0.464
+OP1 - Retrieve,Read-only,472.82,0.473
+OP1 - Retrieve,Read-only,463.82,0.464
+OP1 - Retrieve,Read-only,455.92,0.456
+OP1 - Retrieve,Read-only,453.69,0.454
+OP1 - Retrieve,Read-only,454.94,0.455
+OP1 - Retrieve,Read-only,457.64,0.458
+OP1 - Retrieve,Read-only,453.63,0.454
+OP1 - Retrieve,Read-only,454.29,0.454
+OP1 - Retrieve,Read-only,458.63,0.459
+OP1 - Retrieve,Read-only,453.68,0.454
+OP1 - Retrieve,Read-only,461.06,0.461
+OP1 - Retrieve,Read-only,463.87,0.464
+OP1 - Retrieve,Read-only,457.63,0.458
+OP1 - Retrieve,Read-only,454.65,0.455
+OP1 - Retrieve,Read-only,463.81,0.464
+OP1 - Retrieve,Read-only,464.65,0.465
+OP1 - Retrieve,Read-only,462.87,0.463
+OP1 - Retrieve,Read-only,466.02,0.466
+OP1 - Retrieve,Read-only,460.32,0.46
+OP1 - Retrieve,Read-only,461.24,0.461
+OP1 - Retrieve,Read-only,454.93,0.455
+OP1 - Retrieve,Read-only,460.97,0.461
+OP1 - Retrieve,Read-only,455.11,0.455
+OP1 - Retrieve,Read-only,453.71,0.454
+OP1 - Retrieve,Read-only,457.16,0.457
+OP1 - Retrieve,Read-only,458.73,0.459
+OP1 - Retrieve,Read-only,462.8,0.463
+OP1 - Retrieve,Read-only,464.96,0.465
+OP1 - Retrieve,Read-only,465.24,0.465
+OP1 - Retrieve,Read-only,468.18,0.468
+OP1 - Retrieve,Read-only,467.25,0.467
+OP1 - Retrieve,Read-only,461.89,0.462
+OP1 - Retrieve,Read-only,456.19,0.456
+OP1 - Retrieve,Read-only,453.22,0.453
+OP1 - Retrieve,Read-only,460.52,0.461
+OP1 - Retrieve,Read-only,455.07,0.455
+OP1 - Retrieve,Read-only,457.23,0.457
+OP1 - Retrieve,Read-only,457.95,0.458
+OP1 - Retrieve,Read-only,451.65,0.452
+OP1 - Retrieve,Read-only,454.44,0.454
+OP1 - Retrieve,Read-only,462.65,0.463
+OP1 - Retrieve,Read-only,466.59,0.467
+OP1 - Retrieve,Read-only,462.52,0.463
+OP1 - Retrieve,Read-only,454.71,0.455
+OP1 - Retrieve,Read-only,459.03,0.459
+OP1 - Retrieve,Read-only,464.33,0.464
+OP1 - Retrieve,Read-only,464.9,0.465
+OP1 - Retrieve,Read-only,458.21,0.458
+OP1 - Retrieve,Read-only,456.22,0.456
+OP1 - Retrieve,Read-only,459.2,0.459
+OP1 - Retrieve,Read-only,452.92,0.453
+OP1 - Retrieve,Read-only,456.04,0.456
+OP1 - Retrieve,Read-only,464.38,0.464
+OP1 - Retrieve,Read-only,462.95,0.463
+OP1 - Retrieve,Read-only,458.15,0.458
+OP1 - Retrieve,Read-only,460.77,0.461
+OP1 - Retrieve,Read-only,463.09,0.463
+OP1 - Retrieve,Read-only,464.62,0.465
+OP1 - Retrieve,Read-only,461.65,0.462
+OP1 - Retrieve,Read-only,459.57,0.46
+OP1 - Retrieve,Read-only,463.46,0.463
+OP1 - Retrieve,Read-only,459.01,0.459
+OP1 - Retrieve,Read-only,455.34,0.455
+OP1 - Retrieve,Read-only,451.37,0.451
+OP1 - Retrieve,Read-only,462.58,0.463
+OP1 - Retrieve,Read-only,464.81,0.465
+OP1 - Retrieve,Read-only,452.36,0.452
+OP1 - Retrieve,Read-only,451.41,0.451
+OP1 - Retrieve,Read-only,454.12,0.454
+OP1 - Retrieve,Read-only,453.32,0.453
+OP1 - Retrieve,Read-only,454.64,0.455
+OP1 - Retrieve,Read-only,459.14,0.459
+OP1 - Retrieve,Read-only,457.61,0.458
+OP1 - Retrieve,Read-only,465.09,0.465
+OP1 - Retrieve,Read-only,462.27,0.462
+OP1 - Retrieve,Read-only,464.35,0.464
+OP1 - Retrieve,Read-only,463.83,0.464
+OP1 - Retrieve,Read-only,464.1,0.464
+OP1 - Retrieve,Read-only,458.02,0.458
+OP1 - Retrieve,Read-only,466.84,0.467
+OP1 - Retrieve,Read-only,467.8,0.468
+OP1 - Retrieve,Read-only,464.48,0.464
+OP1 - Retrieve,Read-only,462.19,0.462
+OP1 - Retrieve,Read-only,466.29,0.466
+OP1 - Retrieve,Read-only,465.05,0.465
+OP1 - Retrieve,Read-only,459.14,0.459
+OP1 - Retrieve,Read-only,461.78,0.462
+OP1 - Retrieve,Read-only,464.22,0.464
+OP1 - Retrieve,Read-only,453.08,0.453
+OP1 - Retrieve,Read-only,456.57,0.457
+OP1 - Retrieve,Read-only,461.96,0.462
+OP1 - Retrieve,Read-only,460.85,0.461
+OP1 - Retrieve,Read-only,464.6,0.465
+OP1 - Retrieve,Read-only,457.22,0.457
+OP1 - Retrieve,Read-only,458.14,0.458
+OP1 - Retrieve,Read-only,460.15,0.46
+OP1 - Retrieve,Read-only,466.73,0.467
+OP1 - Retrieve,Read-only,470.24,0.47
+OP1 - Retrieve,Read-only,464.94,0.465
+OP1 - Retrieve,Read-only,464.66,0.465
+OP1 - Retrieve,Read-only,454.57,0.455
+OP1 - Retrieve,Read-only,455.07,0.455
+OP1 - Retrieve,Read-only,469.93,0.47
+OP1 - Retrieve,Read-only,454.99,0.455
+OP1 - Retrieve,Read-only,455.54,0.456
+OP1 - Retrieve,Read-only,456.89,0.457
+OP1 - Retrieve,Read-only,463.28,0.463
+OP1 - Retrieve,Read-only,465.56,0.466
+OP1 - Retrieve,Read-only,464.31,0.464
+OP1 - Retrieve,Read-only,463.57,0.464
+OP1 - Retrieve,Read-only,455.04,0.455
+OP1 - Retrieve,Read-only,450.24,0.45
+OP1 - Retrieve,Read-only,452.62,0.453
+OP1 - Retrieve,Read-only,454.62,0.455
+OP1 - Retrieve,Read-only,450.23,0.45
+OP1 - Retrieve,Read-only,453.45,0.453
+OP1 - Retrieve,Read-only,453.36,0.453
+OP1 - Retrieve,Read-only,457.44,0.457
+OP1 - Retrieve,Read-only,455.17,0.455
+OP1 - Retrieve,Read-only,463.83,0.464
+OP1 - Retrieve,Read-only,461.21,0.461
+OP1 - Retrieve,Read-only,452.12,0.452
+OP1 - Retrieve,Read-only,457.69,0.458
+OP1 - Retrieve,Read-only,452.78,0.453
+OP1 - Retrieve,Read-only,450.87,0.451
+OP1 - Retrieve,Read-only,454.77,0.455
+OP1 - Retrieve,Read-only,456.12,0.456
+OP1 - Retrieve,Read-only,468.05,0.468
+OP1 - Retrieve,Read-only,464.14,0.464
+OP1 - Retrieve,Read-only,461.68,0.462
+OP1 - Retrieve,Read-only,464.5,0.465
+OP1 - Retrieve,Read-only,462.11,0.462
+OP1 - Retrieve,Read-only,462.01,0.462
+OP1 - Retrieve,Read-only,460.22,0.46
+OP1 - Retrieve,Read-only,460.25,0.46
+OP1 - Retrieve,Read-only,460.78,0.461
+OP1 - Retrieve,Read-only,468.45,0.468
+OP1 - Retrieve,Read-only,464.23,0.464
+OP1 - Retrieve,Read-only,452.6,0.453
+OP1 - Retrieve,Read-only,453.92,0.454
+OP1 - Retrieve,Read-only,456.82,0.457
+OP1 - Retrieve,Read-only,453.45,0.453
+OP1 - Retrieve,Read-only,460.81,0.461
+OP1 - Retrieve,Read-only,481.18,0.481
+OP1 - Retrieve,Read-only,461.95,0.462
+OP1 - Retrieve,Read-only,466.97,0.467
+OP1 - Retrieve,Read-only,457.16,0.457
+OP1 - Retrieve,Read-only,463.89,0.464
+OP1 - Retrieve,Read-only,461.47,0.461
+OP1 - Retrieve,Read-only,462.26,0.462
+OP1 - Retrieve,Read-only,462.44,0.462
+OP1 - Retrieve,Read-only,461.74,0.462
+OP1 - Retrieve,Read-only,461.65,0.462
+OP1 - Retrieve,Read-only,462.0,0.462
+OP1 - Retrieve,Read-only,462.62,0.463
+OP1 - Retrieve,Read-only,461.25,0.461
+OP1 - Retrieve,Read-only,462.35,0.462
+OP1 - Retrieve,Read-only,464.34,0.464
+OP1 - Retrieve,Read-only,463.63,0.464
+OP1 - Retrieve,Read-only,463.25,0.463
+OP1 - Retrieve,Read-only,456.04,0.456
+OP1 - Retrieve,Read-only,454.81,0.455
+OP1 - Retrieve,Read-only,455.25,0.455
+OP1 - Retrieve,Read-only,468.28,0.468
+OP1 - Retrieve,Read-only,453.99,0.454
+OP1 - Retrieve,Read-only,456.28,0.456
+OP1 - Retrieve,Read-only,458.5,0.459
+OP1 - Retrieve,Read-only,461.66,0.462
+OP1 - Retrieve,Read-only,463.38,0.463
+OP1 - Retrieve,Read-only,462.41,0.462
+OP1 - Retrieve,Read-only,451.1,0.451
+OP1 - Retrieve,Read-only,453.57,0.454
+OP1 - Retrieve,Read-only,464.53,0.465
+OP1 - Retrieve,Read-only,453.75,0.454
+OP1 - Retrieve,Read-only,454.94,0.455
+OP1 - Retrieve,Read-only,458.44,0.458
+OP1 - Retrieve,Read-only,460.91,0.461
+OP1 - Retrieve,Read-only,459.24,0.459
+OP1 - Retrieve,Read-only,461.64,0.462
+OP1 - Retrieve,Read-only,464.36,0.464
+OP1 - Retrieve,Read-only,464.42,0.464
+OP1 - Retrieve,Read-only,459.18,0.459
+OP1 - Retrieve,Read-only,460.73,0.461
+OP1 - Retrieve,Read-only,460.24,0.46
+OP1 - Retrieve,Read-only,465.56,0.466
+OP1 - Retrieve,Read-only,458.17,0.458
+OP1 - Retrieve,Read-only,455.31,0.455
+OP1 - Retrieve,Read-only,456.87,0.457
+OP1 - Retrieve,Read-only,454.95,0.455
+OP1 - Retrieve,Read-only,459.56,0.46
+OP1 - Retrieve,Read-only,457.86,0.458
+OP1 - Retrieve,Read-only,458.67,0.459
+OP1 - Retrieve,Read-only,459.61,0.46
+OP1 - Retrieve,Read-only,454.49,0.454
+OP1 - Retrieve,Read-only,466.79,0.467
+OP1 - Retrieve,Read-only,468.12,0.468
+OP1 - Retrieve,Read-only,464.49,0.464
+OP1 - Retrieve,Read-only,463.4,0.463
+OP1 - Retrieve,Read-only,463.0,0.463
+OP1 - Retrieve,Read-only,458.94,0.459
+OP1 - Retrieve,Read-only,461.48,0.461
+OP1 - Retrieve,Read-only,462.91,0.463
+OP1 - Retrieve,Read-only,453.74,0.454
+OP1 - Retrieve,Read-only,459.1,0.459
+OP1 - Retrieve,Read-only,454.87,0.455
+OP1 - Retrieve,Read-only,456.54,0.457
+OP1 - Retrieve,Read-only,453.36,0.453
+OP1 - Retrieve,Read-only,454.07,0.454
+OP1 - Retrieve,Read-only,456.77,0.457
+OP1 - Retrieve,Read-only,457.59,0.458
+OP1 - Retrieve,Read-only,457.6,0.458
+OP1 - Retrieve,Read-only,464.29,0.464
+OP1 - Retrieve,Read-only,466.12,0.466
+OP1 - Retrieve,Read-only,464.79,0.465
+OP1 - Retrieve,Read-write,819.12,0.819
+OP1 - Retrieve,Read-write,823.05,0.823
+OP1 - Retrieve,Read-write,817.73,0.818
+OP1 - Retrieve,Read-write,816.57,0.817
+OP1 - Retrieve,Read-write,797.97,0.798
+OP1 - Retrieve,Read-write,814.98,0.815
+OP1 - Retrieve,Read-write,821.05,0.821
+OP1 - Retrieve,Read-write,818.52,0.819
+OP1 - Retrieve,Read-write,817.18,0.817
+OP1 - Retrieve,Read-write,818.29,0.818
+OP1 - Retrieve,Read-write,793.61,0.794
+OP1 - Retrieve,Read-write,798.58,0.799
+OP1 - Retrieve,Read-write,795.31,0.795
+OP1 - Retrieve,Read-write,820.04,0.82
+OP1 - Retrieve,Read-write,821.31,0.821
+OP1 - Retrieve,Read-write,820.99,0.821
+OP1 - Retrieve,Read-write,817.94,0.818
+OP1 - Retrieve,Read-write,793.72,0.794
+OP1 - Retrieve,Read-write,810.24,0.81
+OP1 - Retrieve,Read-write,797.64,0.798
+OP1 - Retrieve,Read-write,801.74,0.802
+OP1 - Retrieve,Read-write,823.2,0.823
+OP1 - Retrieve,Read-write,821.56,0.822
+OP1 - Retrieve,Read-write,824.09,0.824
+OP1 - Retrieve,Read-write,798.21,0.798
+OP1 - Retrieve,Read-write,827.02,0.827
+OP1 - Retrieve,Read-write,800.81,0.801
+OP1 - Retrieve,Read-write,805.52,0.806
+OP1 - Retrieve,Read-write,799.04,0.799
+OP1 - Retrieve,Read-write,818.9,0.819
+OP1 - Retrieve,Read-write,820.18,0.82
+OP1 - Retrieve,Read-write,819.13,0.819
+OP1 - Retrieve,Read-write,818.5,0.819
+OP1 - Retrieve,Read-write,809.43,0.809
+OP1 - Retrieve,Read-write,816.3,0.816
+OP1 - Retrieve,Read-write,800.58,0.801
+OP1 - Retrieve,Read-write,817.64,0.818
+OP1 - Retrieve,Read-write,803.9,0.804
+OP1 - Retrieve,Read-write,800.78,0.801
+OP1 - Retrieve,Read-write,806.09,0.806
+OP1 - Retrieve,Read-write,798.78,0.799
+OP1 - Retrieve,Read-write,814.35,0.814
+OP1 - Retrieve,Read-write,817.03,0.817
+OP1 - Retrieve,Read-write,798.46,0.798
+OP1 - Retrieve,Read-write,808.96,0.809
+OP1 - Retrieve,Read-write,816.2,0.816
+OP1 - Retrieve,Read-write,818.78,0.819
+OP1 - Retrieve,Read-write,817.72,0.818
+OP1 - Retrieve,Read-write,816.82,0.817
+OP1 - Retrieve,Read-write,802.47,0.802
+OP1 - Retrieve,Read-write,800.09,0.8
+OP1 - Retrieve,Read-write,820.84,0.821
+OP1 - Retrieve,Read-write,826.81,0.827
+OP1 - Retrieve,Read-write,804.79,0.805
+OP1 - Retrieve,Read-write,801.4,0.801
+OP1 - Retrieve,Read-write,804.78,0.805
+OP1 - Retrieve,Read-write,804.01,0.804
+OP1 - Retrieve,Read-write,816.01,0.816
+OP1 - Retrieve,Read-write,813.18,0.813
+OP1 - Retrieve,Read-write,817.12,0.817
+OP1 - Retrieve,Read-write,815.48,0.815
+OP1 - Retrieve,Read-write,814.42,0.814
+OP1 - Retrieve,Read-write,815.09,0.815
+OP1 - Retrieve,Read-write,798.07,0.798
+OP1 - Retrieve,Read-write,824.21,0.824
+OP1 - Retrieve,Read-write,817.76,0.818
+OP1 - Retrieve,Read-write,819.38,0.819
+OP1 - Retrieve,Read-write,815.6,0.816
+OP1 - Retrieve,Read-write,796.08,0.796
+OP1 - Retrieve,Read-write,799.87,0.8
+OP1 - Retrieve,Read-write,819.93,0.82
+OP1 - Retrieve,Read-write,819.24,0.819
+OP1 - Retrieve,Read-write,813.5,0.814
+OP1 - Retrieve,Read-write,816.71,0.817
+OP1 - Retrieve,Read-write,816.07,0.816
+OP1 - Retrieve,Read-write,816.9,0.817
+OP1 - Retrieve,Read-write,815.51,0.816
+OP1 - Retrieve,Read-write,817.47,0.817
+OP1 - Retrieve,Read-write,814.46,0.814
+OP1 - Retrieve,Read-write,817.71,0.818
+OP1 - Retrieve,Read-write,808.85,0.809
+OP1 - Retrieve,Read-write,815.53,0.816
+OP1 - Retrieve,Read-write,817.35,0.817
+OP1 - Retrieve,Read-write,818.04,0.818
+OP1 - Retrieve,Read-write,814.68,0.815
+OP1 - Retrieve,Read-write,821.28,0.821
+OP1 - Retrieve,Read-write,795.75,0.796
+OP1 - Retrieve,Read-write,802.97,0.803
+OP1 - Retrieve,Read-write,801.14,0.801
+OP1 - Retrieve,Read-write,795.47,0.795
+OP1 - Retrieve,Read-write,798.27,0.798
+OP1 - Retrieve,Read-write,797.32,0.797
+OP1 - Retrieve,Read-write,827.57,0.828
+OP1 - Retrieve,Read-write,797.61,0.798
+OP1 - Retrieve,Read-write,796.24,0.796
+OP1 - Retrieve,Read-write,795.78,0.796
+OP1 - Retrieve,Read-write,794.87,0.795
+OP1 - Retrieve,Read-write,798.4,0.798
+OP1 - Retrieve,Read-write,800.37,0.8
+OP1 - Retrieve,Read-write,805.9,0.806
+OP1 - Retrieve,Read-write,811.47,0.811
+OP1 - Retrieve,Read-write,837.42,0.837
+OP1 - Retrieve,Read-write,812.17,0.812
+OP1 - Retrieve,Read-write,824.79,0.825
+OP1 - Retrieve,Read-write,817.43,0.817
+OP1 - Retrieve,Read-write,816.64,0.817
+OP1 - Retrieve,Read-write,838.97,0.839
+OP1 - Retrieve,Read-write,831.46,0.831
+OP1 - Retrieve,Read-write,832.89,0.833
+OP1 - Retrieve,Read-write,828.94,0.829
+OP1 - Retrieve,Read-write,825.53,0.826
+OP1 - Retrieve,Read-write,838.5,0.839
+OP1 - Retrieve,Read-write,835.53,0.836
+OP1 - Retrieve,Read-write,833.26,0.833
+OP1 - Retrieve,Read-write,838.74,0.839
+OP1 - Retrieve,Read-write,834.11,0.834
+OP1 - Retrieve,Read-write,833.62,0.834
+OP1 - Retrieve,Read-write,835.97,0.836
+OP1 - Retrieve,Read-write,834.09,0.834
+OP1 - Retrieve,Read-write,834.47,0.834
+OP1 - Retrieve,Read-write,835.37,0.835
+OP1 - Retrieve,Read-write,830.53,0.831
+OP1 - Retrieve,Read-write,812.16,0.812
+OP1 - Retrieve,Read-write,827.26,0.827
+OP1 - Retrieve,Read-write,830.53,0.831
+OP1 - Retrieve,Read-write,833.18,0.833
+OP1 - Retrieve,Read-write,836.78,0.837
+OP1 - Retrieve,Read-write,815.59,0.816
+OP1 - Retrieve,Read-write,813.46,0.813
+OP1 - Retrieve,Read-write,826.76,0.827
+OP1 - Retrieve,Read-write,815.53,0.816
+OP1 - Retrieve,Read-write,833.56,0.834
+OP1 - Retrieve,Read-write,835.59,0.836
+OP1 - Retrieve,Read-write,832.93,0.833
+OP1 - Retrieve,Read-write,837.65,0.838
+OP1 - Retrieve,Read-write,824.96,0.825
+OP1 - Retrieve,Read-write,830.0,0.83
+OP1 - Retrieve,Read-write,826.08,0.826
+OP1 - Retrieve,Read-write,815.89,0.816
+OP1 - Retrieve,Read-write,820.86,0.821
+OP1 - Retrieve,Read-write,814.93,0.815
+OP1 - Retrieve,Read-write,807.13,0.807
+OP1 - Retrieve,Read-write,813.59,0.814
+OP1 - Retrieve,Read-write,819.15,0.819
+OP1 - Retrieve,Read-write,818.05,0.818
+OP1 - Retrieve,Read-write,815.22,0.815
+OP1 - Retrieve,Read-write,818.22,0.818
+OP1 - Retrieve,Read-write,810.44,0.81
+OP1 - Retrieve,Read-write,830.09,0.83
+OP1 - Retrieve,Read-write,829.75,0.83
+OP1 - Retrieve,Read-write,830.75,0.831
+OP1 - Retrieve,Read-write,834.24,0.834
+OP1 - Retrieve,Read-write,829.75,0.83
+OP1 - Retrieve,Read-write,833.35,0.833
+OP1 - Retrieve,Read-write,812.3,0.812
+OP1 - Retrieve,Read-write,810.7,0.811
+OP1 - Retrieve,Read-write,815.6,0.816
+OP1 - Retrieve,Read-write,835.36,0.835
+OP1 - Retrieve,Read-write,831.28,0.831
+OP1 - Retrieve,Read-write,825.46,0.825
+OP1 - Retrieve,Read-write,830.53,0.831
+OP1 - Retrieve,Read-write,826.0,0.826
+OP1 - Retrieve,Read-write,834.32,0.834
+OP1 - Retrieve,Read-write,832.29,0.832
+OP1 - Retrieve,Read-write,837.12,0.837
+OP1 - Retrieve,Read-write,810.7,0.811
+OP1 - Retrieve,Read-write,815.39,0.815
+OP1 - Retrieve,Read-write,809.93,0.81
+OP1 - Retrieve,Read-write,808.08,0.808
+OP1 - Retrieve,Read-write,814.45,0.814
+OP1 - Retrieve,Read-write,830.13,0.83
+OP1 - Retrieve,Read-write,829.46,0.829
+OP1 - Retrieve,Read-write,825.95,0.826
+OP1 - Retrieve,Read-write,812.81,0.813
+OP1 - Retrieve,Read-write,834.81,0.835
+OP1 - Retrieve,Read-write,829.61,0.83
+OP1 - Retrieve,Read-write,833.62,0.834
+OP1 - Retrieve,Read-write,834.44,0.834
+OP1 - Retrieve,Read-write,837.97,0.838
+OP1 - Retrieve,Read-write,827.33,0.827
+OP1 - Retrieve,Read-write,828.81,0.829
+OP1 - Retrieve,Read-write,831.59,0.832
+OP1 - Retrieve,Read-write,832.81,0.833
+OP1 - Retrieve,Read-write,826.01,0.826
+OP1 - Retrieve,Read-write,825.18,0.825
+OP1 - Retrieve,Read-write,828.25,0.828
+OP1 - Retrieve,Read-write,829.78,0.83
+OP1 - Retrieve,Read-write,831.3,0.831
+OP1 - Retrieve,Read-write,830.0,0.83
+OP1 - Retrieve,Read-write,831.97,0.832
+OP1 - Retrieve,Read-write,828.08,0.828
+OP1 - Retrieve,Read-write,828.35,0.828
+OP1 - Retrieve,Read-write,828.46,0.828
+OP1 - Retrieve,Read-write,827.49,0.827
+OP1 - Retrieve,Read-write,823.88,0.824
+OP1 - Retrieve,Read-write,834.6,0.835
+OP1 - Retrieve,Read-write,837.98,0.838
+OP1 - Retrieve,Read-write,830.45,0.83
+OP1 - Retrieve,Read-write,831.71,0.832
+OP1 - Retrieve,Read-write,825.31,0.825
+OP1 - Retrieve,Read-write,840.43,0.84
+OP1 - Retrieve,Read-write,837.66,0.838
+OP1 - Retrieve,Read-write,830.0,0.83
+OP1 - Retrieve,Read-write,830.14,0.83
+OP1 - Retrieve,Read-write,831.29,0.831
+OP1 - Retrieve,Read-write,833.81,0.834
+OP1 - Retrieve,Read-write,833.29,0.833
+OP1 - Retrieve,Read-write,822.27,0.822
+OP1 - Retrieve,Read-write,824.28,0.824
+OP1 - Retrieve,Read-write,820.21,0.82
+OP1 - Retrieve,Read-write,815.43,0.815
+OP1 - Retrieve,Read-write,820.81,0.821
+OP1 - Retrieve,Read-write,815.77,0.816
+OP1 - Retrieve,Read-write,815.62,0.816
+OP1 - Retrieve,Read-write,834.08,0.834
+OP1 - Retrieve,Read-write,835.22,0.835
+OP1 - Retrieve,Read-write,833.68,0.834
+OP1 - Retrieve,Read-write,817.49,0.817
+OP1 - Retrieve,Read-write,820.03,0.82
+OP1 - Retrieve,Read-write,818.64,0.819
+OP1 - Retrieve,Read-write,816.11,0.816
+OP1 - Retrieve,Read-write,832.62,0.833
+OP1 - Retrieve,Read-write,816.32,0.816
+OP1 - Retrieve,Read-write,829.85,0.83
+OP1 - Retrieve,Read-write,833.14,0.833
+OP1 - Retrieve,Read-write,837.51,0.838
+OP1 - Retrieve,Read-write,814.9,0.815
+OP1 - Retrieve,Read-write,835.47,0.835
+OP1 - Retrieve,Read-write,817.84,0.818
+OP1 - Retrieve,Read-write,835.13,0.835
+OP1 - Retrieve,Read-write,815.06,0.815
+OP1 - Retrieve,Read-write,820.56,0.821
+OP1 - Retrieve,Read-write,815.61,0.816
+OP1 - Retrieve,Read-write,833.72,0.834
+OP1 - Retrieve,Read-write,820.02,0.82
+OP1 - Retrieve,Read-write,819.97,0.82
+OP1 - Retrieve,Read-write,823.1,0.823
+OP1 - Retrieve,Read-write,815.17,0.815
+OP1 - Retrieve,Read-write,818.26,0.818
+OP1 - Retrieve,Read-write,818.4,0.818
+OP1 - Retrieve,Read-write,814.15,0.814
+OP1 - Retrieve,Read-write,817.01,0.817
+OP1 - Retrieve,Read-write,811.28,0.811
+OP1 - Retrieve,Read-write,815.74,0.816
+OP1 - Retrieve,Read-write,820.43,0.82
+OP1 - Retrieve,Read-write,820.64,0.821
+OP1 - Retrieve,Read-write,819.81,0.82
+OP1 - Retrieve,Read-write,820.23,0.82
+OP1 - Retrieve,Read-write,829.76,0.83
+OP1 - Retrieve,Read-write,824.36,0.824
+OP1 - Retrieve,Read-write,840.44,0.84
+OP1 - Retrieve,Read-write,837.47,0.837
+OP1 - Retrieve,Read-write,835.99,0.836
+OP1 - Retrieve,Read-write,818.38,0.818
+OP1 - Retrieve,Read-write,835.34,0.835
+OP1 - Retrieve,Read-write,834.72,0.835
+OP1 - Retrieve,Read-write,819.67,0.82
+OP1 - Retrieve,Read-write,841.43,0.841
+OP1 - Retrieve,Read-write,840.09,0.84
+OP1 - Retrieve,Read-write,841.22,0.841
+OP1 - Retrieve,Read-write,837.74,0.838
+OP1 - Retrieve,Read-write,818.98,0.819
+OP1 - Retrieve,Read-write,815.28,0.815
+OP1 - Retrieve,Read-write,820.25,0.82
+OP1 - Retrieve,Read-write,841.24,0.841
+OP1 - Retrieve,Read-write,839.04,0.839
+OP1 - Retrieve,Read-write,834.79,0.835
+OP1 - Retrieve,Read-write,834.04,0.834
+OP1 - Retrieve,Read-write,842.64,0.843
+OP1 - Retrieve,Read-write,840.93,0.841
+OP1 - Retrieve,Read-write,830.38,0.83
+OP1 - Retrieve,Read-write,829.35,0.829
+OP1 - Retrieve,Read-write,827.79,0.828
+OP1 - Retrieve,Read-write,835.33,0.835
+OP1 - Retrieve,Read-write,829.64,0.83
+OP1 - Retrieve,Read-write,842.11,0.842
+OP1 - Retrieve,Read-write,845.09,0.845
+OP1 - Retrieve,Read-write,838.05,0.838
+OP1 - Retrieve,Read-write,813.35,0.813
+OP1 - Retrieve,Read-write,813.62,0.814
+OP1 - Retrieve,Read-write,837.84,0.838
+OP1 - Retrieve,Read-write,838.17,0.838
+OP1 - Retrieve,Read-write,842.59,0.843
+OP1 - Retrieve,Read-write,817.13,0.817
+OP1 - Retrieve,Read-write,820.67,0.821
+OP1 - Retrieve,Read-write,811.01,0.811
+OP1 - Retrieve,Read-write,831.14,0.831
+OP1 - Retrieve,Read-write,850.79,0.851
+OP1 - Retrieve,Read-write,833.32,0.833
+OP1 - Retrieve,Read-write,833.31,0.833
+OP1 - Retrieve,Read-write,830.6,0.831
+OP1 - Retrieve,Read-write,840.0,0.84
+OP1 - Retrieve,Read-write,835.08,0.835
+OP1 - Retrieve,Read-write,831.0,0.831
+OP1 - Retrieve,Read-write,831.33,0.831
+OP1 - Retrieve,Read-write,830.9,0.831
+OP1 - Retrieve,Read-write,833.52,0.834
+OP1 - Retrieve,Read-write,815.27,0.815
+OP1 - Retrieve,Read-write,818.33,0.818
+OP1 - Retrieve,Read-write,814.94,0.815
+OP1 - Retrieve,Read-write,805.09,0.805
+OP1 - Retrieve,Read-write,779.42,0.779
+OP1 - Retrieve,Read-write,780.33,0.78
+OP1 - Retrieve,Read-write,781.27,0.781
+OP1 - Retrieve,Read-write,783.71,0.784
+OP1 - Retrieve,Read-write,777.8,0.778
+OP1 - Retrieve,Read-write,788.37,0.788
+OP1 - Retrieve,Read-write,782.32,0.782
+OP1 - Retrieve,Read-write,780.7,0.781
+OP1 - Retrieve,Read-write,799.05,0.799
+OP1 - Retrieve,Read-write,790.59,0.791
+OP1 - Retrieve,Read-write,790.94,0.791
+OP1 - Retrieve,Read-write,784.07,0.784
+OP1 - Retrieve,Read-write,780.52,0.781
+OP1 - Retrieve,Read-write,780.31,0.78
+OP1 - Retrieve,Read-write,783.29,0.783
+OP1 - Retrieve,Read-write,784.02,0.784
+OP1 - Retrieve,Read-write,782.96,0.783
+OP1 - Retrieve,Read-write,787.12,0.787
+OP1 - Retrieve,Read-write,785.46,0.785
+OP1 - Retrieve,Read-write,806.64,0.807
+OP1 - Retrieve,Read-write,781.28,0.781
+OP1 - Retrieve,Read-write,780.72,0.781
+OP1 - Retrieve,Read-write,786.42,0.786
+OP1 - Retrieve,Read-write,780.89,0.781
+OP1 - Retrieve,Read-write,785.36,0.785
+OP1 - Retrieve,Read-write,786.9,0.787
+OP1 - Retrieve,Read-write,783.07,0.783
+OP1 - Retrieve,Read-write,801.6,0.802
+OP1 - Retrieve,Read-write,787.75,0.788
+OP1 - Retrieve,Read-write,796.59,0.797
+OP1 - Retrieve,Read-write,795.88,0.796
+OP1 - Retrieve,Read-write,793.57,0.794
+OP1 - Retrieve,Read-write,794.73,0.795
+OP1 - Retrieve,Read-write,793.82,0.794
+OP1 - Retrieve,Read-write,804.93,0.805
+OP1 - Retrieve,Read-write,800.72,0.801
+OP1 - Retrieve,Read-write,799.73,0.8
+OP1 - Retrieve,Read-write,802.04,0.802
+OP1 - Retrieve,Read-write,799.24,0.799
+OP1 - Retrieve,Read-write,797.39,0.797
+OP1 - Retrieve,Read-write,801.55,0.802
+OP1 - Retrieve,Read-write,798.31,0.798
+OP1 - Retrieve,Read-write,801.84,0.802
+OP1 - Retrieve,Read-write,792.51,0.793
+OP1 - Retrieve,Read-write,792.21,0.792
+OP1 - Retrieve,Read-write,799.23,0.799
+OP1 - Retrieve,Read-write,793.38,0.793
+OP1 - Retrieve,Read-write,794.24,0.794
+OP1 - Retrieve,Read-write,795.55,0.796
+OP1 - Retrieve,Read-write,792.77,0.793
+OP1 - Retrieve,Read-write,796.82,0.797
+OP1 - Retrieve,Read-write,796.03,0.796
+OP1 - Retrieve,Read-write,793.73,0.794
+OP1 - Retrieve,Read-write,793.41,0.793
+OP1 - Retrieve,Read-write,796.51,0.797
+OP1 - Retrieve,Read-write,792.42,0.792
+OP1 - Retrieve,Read-write,796.58,0.797
+OP1 - Retrieve,Read-write,779.72,0.78
+OP1 - Retrieve,Read-write,775.81,0.776
+OP1 - Retrieve,Read-write,775.76,0.776
+OP1 - Retrieve,Read-write,795.23,0.795
+OP1 - Retrieve,Read-write,791.72,0.792
+OP1 - Retrieve,Read-write,798.21,0.798
+OP1 - Retrieve,Read-write,793.4,0.793
+OP1 - Retrieve,Read-write,774.21,0.774
+OP1 - Retrieve,Read-write,776.67,0.777
+OP1 - Retrieve,Read-write,792.99,0.793
+OP1 - Retrieve,Read-write,794.49,0.794
+OP1 - Retrieve,Read-write,779.31,0.779
+OP1 - Retrieve,Read-write,794.92,0.795
+OP1 - Retrieve,Read-write,797.14,0.797
+OP1 - Retrieve,Read-write,800.07,0.8
+OP1 - Retrieve,Read-write,795.77,0.796
+OP1 - Retrieve,Read-write,795.28,0.795
+OP1 - Retrieve,Read-write,776.91,0.777
+OP1 - Retrieve,Read-write,797.11,0.797
+OP1 - Retrieve,Read-write,790.02,0.79
+OP1 - Retrieve,Read-write,796.93,0.797
+OP1 - Retrieve,Read-write,776.87,0.777
+OP1 - Retrieve,Read-write,782.8,0.783
+OP1 - Retrieve,Read-write,783.84,0.784
+OP1 - Retrieve,Read-write,801.26,0.801
+OP1 - Retrieve,Read-write,801.16,0.801
+OP1 - Retrieve,Read-write,804.71,0.805
+OP1 - Retrieve,Read-write,800.91,0.801
+OP1 - Retrieve,Read-write,799.88,0.8
+OP1 - Retrieve,Read-write,804.45,0.804
+OP1 - Retrieve,Read-write,799.45,0.799
+OP1 - Retrieve,Read-write,800.11,0.8
+OP1 - Retrieve,Read-write,800.7,0.801
+OP1 - Retrieve,Read-write,775.69,0.776
+OP1 - Retrieve,Read-write,772.88,0.773
+OP1 - Retrieve,Read-write,780.2,0.78
+OP1 - Retrieve,Read-write,798.45,0.798
+OP1 - Retrieve,Read-write,800.31,0.8
+OP1 - Retrieve,Read-write,797.89,0.798
+OP1 - Retrieve,Read-write,797.73,0.798
+OP1 - Retrieve,Read-write,802.15,0.802
+OP1 - Retrieve,Read-write,804.86,0.805
+OP1 - Retrieve,Read-write,813.65,0.814
+OP1 - Retrieve,Read-write,815.71,0.816
+OP1 - Retrieve,Read-write,810.97,0.811
+OP1 - Retrieve,Read-write,813.69,0.814
+OP1 - Retrieve,Read-write,815.54,0.816
+OP1 - Retrieve,Read-write,811.38,0.811
+OP1 - Retrieve,Read-write,817.41,0.817
+OP1 - Retrieve,Read-write,816.68,0.817
+OP1 - Retrieve,Read-write,814.92,0.815
+OP1 - Retrieve,Read-write,828.53,0.829
+OP1 - Retrieve,Read-write,827.83,0.828
+OP1 - Retrieve,Read-write,827.29,0.827
+OP1 - Retrieve,Read-write,834.94,0.835
+OP1 - Retrieve,Read-write,825.08,0.825
+OP1 - Retrieve,Read-write,830.47,0.83
+OP1 - Retrieve,Read-write,830.76,0.831
+OP1 - Retrieve,Read-write,834.88,0.835
+OP1 - Retrieve,Read-write,825.33,0.825
+OP1 - Retrieve,Read-write,825.73,0.826
+OP1 - Retrieve,Read-write,824.16,0.824
+OP1 - Retrieve,Read-write,828.63,0.829
+OP1 - Retrieve,Read-write,833.9,0.834
+OP1 - Retrieve,Read-write,830.33,0.83
+OP1 - Retrieve,Read-write,808.05,0.808
+OP1 - Retrieve,Read-write,830.01,0.83
+OP1 - Retrieve,Read-write,810.84,0.811
+OP1 - Retrieve,Read-write,827.74,0.828
+OP1 - Retrieve,Read-write,824.55,0.825
+OP1 - Retrieve,Read-write,826.16,0.826
+OP1 - Retrieve,Read-write,828.17,0.828
+OP1 - Retrieve,Read-write,837.28,0.837
+OP1 - Retrieve,Read-write,812.98,0.813
+OP1 - Retrieve,Read-write,832.03,0.832
+OP1 - Retrieve,Read-write,839.47,0.839
+OP1 - Retrieve,Read-write,825.05,0.825
+OP1 - Retrieve,Read-write,828.65,0.829
+OP1 - Retrieve,Read-write,809.45,0.809
+OP1 - Retrieve,Read-write,804.18,0.804
+OP1 - Retrieve,Read-write,810.33,0.81
+OP1 - Retrieve,Read-write,802.8,0.803
+OP1 - Retrieve,Read-write,829.05,0.829
+OP1 - Retrieve,Read-write,833.09,0.833
+OP1 - Retrieve,Read-write,835.47,0.835
+OP1 - Retrieve,Read-write,824.5,0.825
+OP1 - Retrieve,Read-write,835.12,0.835
+OP1 - Retrieve,Read-write,829.86,0.83
+OP1 - Retrieve,Read-write,826.77,0.827
+OP1 - Retrieve,Read-write,824.21,0.824
+OP1 - Retrieve,Read-write,829.39,0.829
+OP1 - Retrieve,Read-write,827.6,0.828
+OP1 - Retrieve,Read-write,829.15,0.829
+OP1 - Retrieve,Read-write,823.9,0.824
+OP1 - Retrieve,Read-write,825.98,0.826
+OP1 - Retrieve,Read-write,825.96,0.826
+OP1 - Retrieve,Read-write,826.21,0.826
+OP1 - Retrieve,Read-write,828.45,0.828
+OP1 - Retrieve,Read-write,825.82,0.826
+OP1 - Retrieve,Read-write,825.13,0.825
+OP1 - Retrieve,Read-write,821.2,0.821
+OP1 - Retrieve,Read-write,825.15,0.825
+OP1 - Retrieve,Read-write,825.47,0.825
+OP1 - Retrieve,Read-write,823.68,0.824
+OP1 - Retrieve,Read-write,825.85,0.826
+OP1 - Retrieve,Read-write,829.91,0.83
+OP1 - Retrieve,Read-write,829.55,0.83
+OP1 - Retrieve,Read-write,824.75,0.825
+OP1 - Retrieve,Read-write,828.01,0.828
+OP1 - Retrieve,Read-write,829.53,0.83
+OP1 - Retrieve,Read-write,826.37,0.826
+OP1 - Retrieve,Read-write,824.33,0.824
+OP1 - Retrieve,Read-write,832.82,0.833
+OP1 - Retrieve,Read-write,828.23,0.828
+OP1 - Retrieve,Read-write,833.36,0.833
+OP1 - Retrieve,Read-write,828.16,0.828
+OP1 - Retrieve,Read-write,821.99,0.822
+OP1 - Retrieve,Read-write,823.99,0.824
+OP1 - Retrieve,Read-write,805.08,0.805
+OP1 - Retrieve,Read-write,813.02,0.813
+OP1 - Retrieve,Read-write,826.95,0.827
+OP1 - Retrieve,Read-write,813.44,0.813
+OP1 - Retrieve,Read-write,827.77,0.828
+OP1 - Retrieve,Read-write,832.93,0.833
+OP1 - Retrieve,Read-write,826.01,0.826
+OP1 - Retrieve,Read-write,809.04,0.809
+OP1 - Retrieve,Read-write,814.64,0.815
+OP1 - Retrieve,Read-write,823.32,0.823
+OP1 - Retrieve,Read-write,812.09,0.812
+OP1 - Retrieve,Read-write,808.78,0.809
+OP1 - Retrieve,Read-write,806.95,0.807
+OP1 - Retrieve,Read-write,816.01,0.816
+OP1 - Retrieve,Read-write,808.55,0.809
+OP1 - Retrieve,Read-write,844.12,0.844
+OP1 - Retrieve,Read-write,820.39,0.82
+OP1 - Retrieve,Read-write,813.93,0.814
+OP1 - Retrieve,Read-write,811.35,0.811
+OP1 - Retrieve,Read-write,810.35,0.81
+OP1 - Retrieve,Read-write,812.22,0.812
+OP1 - Retrieve,Read-write,814.3,0.814
+OP1 - Retrieve,Read-write,810.17,0.81
+OP1 - Retrieve,Read-write,808.71,0.809
+OP2 - Retrieve all,Read-only,478.69,0.479
+OP2 - Retrieve all,Read-only,478.13,0.478
+OP2 - Retrieve all,Read-only,481.12,0.481
+OP2 - Retrieve all,Read-only,472.98,0.473
+OP2 - Retrieve all,Read-only,480.87,0.481
+OP2 - Retrieve all,Read-only,481.47,0.481
+OP2 - Retrieve all,Read-only,480.75,0.481
+OP2 - Retrieve all,Read-only,477.55,0.478
+OP2 - Retrieve all,Read-only,481.77,0.482
+OP2 - Retrieve all,Read-only,479.74,0.48
+OP2 - Retrieve all,Read-only,470.51,0.471
+OP2 - Retrieve all,Read-only,465.61,0.466
+OP2 - Retrieve all,Read-only,465.26,0.465
+OP2 - Retrieve all,Read-only,469.35,0.469
+OP2 - Retrieve all,Read-only,464.01,0.464
+OP2 - Retrieve all,Read-only,467.68,0.468
+OP2 - Retrieve all,Read-only,469.62,0.47
+OP2 - Retrieve all,Read-only,479.33,0.479
+OP2 - Retrieve all,Read-only,478.8,0.479
+OP2 - Retrieve all,Read-only,469.95,0.47
+OP2 - Retrieve all,Read-only,472.09,0.472
+OP2 - Retrieve all,Read-only,471.17,0.471
+OP2 - Retrieve all,Read-only,477.13,0.477
+OP2 - Retrieve all,Read-only,483.84,0.484
+OP2 - Retrieve all,Read-only,464.87,0.465
+OP2 - Retrieve all,Read-only,473.05,0.473
+OP2 - Retrieve all,Read-only,478.74,0.479
+OP2 - Retrieve all,Read-only,476.61,0.477
+OP2 - Retrieve all,Read-only,472.8,0.473
+OP2 - Retrieve all,Read-only,489.59,0.49
+OP2 - Retrieve all,Read-only,483.84,0.484
+OP2 - Retrieve all,Read-only,475.93,0.476
+OP2 - Retrieve all,Read-only,480.44,0.48
+OP2 - Retrieve all,Read-only,481.04,0.481
+OP2 - Retrieve all,Read-only,464.66,0.465
+OP2 - Retrieve all,Read-only,474.73,0.475
+OP2 - Retrieve all,Read-only,479.79,0.48
+OP2 - Retrieve all,Read-only,466.56,0.467
+OP2 - Retrieve all,Read-only,477.78,0.478
+OP2 - Retrieve all,Read-only,482.03,0.482
+OP2 - Retrieve all,Read-only,465.41,0.465
+OP2 - Retrieve all,Read-only,464.24,0.464
+OP2 - Retrieve all,Read-only,471.95,0.472
+OP2 - Retrieve all,Read-only,471.74,0.472
+OP2 - Retrieve all,Read-only,474.62,0.475
+OP2 - Retrieve all,Read-only,478.55,0.479
+OP2 - Retrieve all,Read-only,466.04,0.466
+OP2 - Retrieve all,Read-only,466.98,0.467
+OP2 - Retrieve all,Read-only,467.29,0.467
+OP2 - Retrieve all,Read-only,479.71,0.48
+OP2 - Retrieve all,Read-only,478.42,0.478
+OP2 - Retrieve all,Read-only,467.03,0.467
+OP2 - Retrieve all,Read-only,478.45,0.478
+OP2 - Retrieve all,Read-only,479.35,0.479
+OP2 - Retrieve all,Read-only,475.36,0.475
+OP2 - Retrieve all,Read-only,479.3,0.479
+OP2 - Retrieve all,Read-only,467.08,0.467
+OP2 - Retrieve all,Read-only,475.25,0.475
+OP2 - Retrieve all,Read-only,468.84,0.469
+OP2 - Retrieve all,Read-only,468.15,0.468
+OP2 - Retrieve all,Read-only,482.33,0.482
+OP2 - Retrieve all,Read-only,475.65,0.476
+OP2 - Retrieve all,Read-only,477.67,0.478
+OP2 - Retrieve all,Read-only,474.97,0.475
+OP2 - Retrieve all,Read-only,490.1,0.49
+OP2 - Retrieve all,Read-only,477.5,0.477
+OP2 - Retrieve all,Read-only,476.33,0.476
+OP2 - Retrieve all,Read-only,482.37,0.482
+OP2 - Retrieve all,Read-only,483.99,0.484
+OP2 - Retrieve all,Read-only,473.99,0.474
+OP2 - Retrieve all,Read-only,475.14,0.475
+OP2 - Retrieve all,Read-only,468.44,0.468
+OP2 - Retrieve all,Read-only,471.1,0.471
+OP2 - Retrieve all,Read-only,465.99,0.466
+OP2 - Retrieve all,Read-only,474.8,0.475
+OP2 - Retrieve all,Read-only,473.84,0.474
+OP2 - Retrieve all,Read-only,478.46,0.478
+OP2 - Retrieve all,Read-only,477.03,0.477
+OP2 - Retrieve all,Read-only,479.28,0.479
+OP2 - Retrieve all,Read-only,477.82,0.478
+OP2 - Retrieve all,Read-only,462.26,0.462
+OP2 - Retrieve all,Read-only,466.57,0.467
+OP2 - Retrieve all,Read-only,474.1,0.474
+OP2 - Retrieve all,Read-only,478.15,0.478
+OP2 - Retrieve all,Read-only,467.49,0.467
+OP2 - Retrieve all,Read-only,472.9,0.473
+OP2 - Retrieve all,Read-only,469.73,0.47
+OP2 - Retrieve all,Read-only,464.38,0.464
+OP2 - Retrieve all,Read-only,469.64,0.47
+OP2 - Retrieve all,Read-only,477.53,0.478
+OP2 - Retrieve all,Read-only,476.99,0.477
+OP2 - Retrieve all,Read-only,471.16,0.471
+OP2 - Retrieve all,Read-only,472.34,0.472
+OP2 - Retrieve all,Read-only,465.79,0.466
+OP2 - Retrieve all,Read-only,472.69,0.473
+OP2 - Retrieve all,Read-only,471.39,0.471
+OP2 - Retrieve all,Read-only,479.43,0.479
+OP2 - Retrieve all,Read-only,477.23,0.477
+OP2 - Retrieve all,Read-only,476.77,0.477
+OP2 - Retrieve all,Read-only,487.19,0.487
+OP2 - Retrieve all,Read-only,483.25,0.483
+OP2 - Retrieve all,Read-only,488.79,0.489
+OP2 - Retrieve all,Read-only,471.05,0.471
+OP2 - Retrieve all,Read-only,483.85,0.484
+OP2 - Retrieve all,Read-only,482.64,0.483
+OP2 - Retrieve all,Read-only,487.21,0.487
+OP2 - Retrieve all,Read-only,472.99,0.473
+OP2 - Retrieve all,Read-only,474.11,0.474
+OP2 - Retrieve all,Read-only,477.58,0.478
+OP2 - Retrieve all,Read-only,484.38,0.484
+OP2 - Retrieve all,Read-only,481.84,0.482
+OP2 - Retrieve all,Read-only,480.39,0.48
+OP2 - Retrieve all,Read-only,487.23,0.487
+OP2 - Retrieve all,Read-only,489.57,0.49
+OP2 - Retrieve all,Read-only,473.68,0.474
+OP2 - Retrieve all,Read-only,475.34,0.475
+OP2 - Retrieve all,Read-only,480.0,0.48
+OP2 - Retrieve all,Read-only,475.32,0.475
+OP2 - Retrieve all,Read-only,473.52,0.474
+OP2 - Retrieve all,Read-only,474.5,0.474
+OP2 - Retrieve all,Read-only,478.73,0.479
+OP2 - Retrieve all,Read-only,478.79,0.479
+OP2 - Retrieve all,Read-only,478.84,0.479
+OP2 - Retrieve all,Read-only,485.88,0.486
+OP2 - Retrieve all,Read-only,482.47,0.482
+OP2 - Retrieve all,Read-only,482.23,0.482
+OP2 - Retrieve all,Read-only,477.22,0.477
+OP2 - Retrieve all,Read-only,488.29,0.488
+OP2 - Retrieve all,Read-only,485.01,0.485
+OP2 - Retrieve all,Read-only,483.46,0.483
+OP2 - Retrieve all,Read-only,478.92,0.479
+OP2 - Retrieve all,Read-only,477.5,0.477
+OP2 - Retrieve all,Read-only,475.34,0.475
+OP2 - Retrieve all,Read-only,475.12,0.475
+OP2 - Retrieve all,Read-only,475.84,0.476
+OP2 - Retrieve all,Read-only,472.81,0.473
+OP2 - Retrieve all,Read-only,473.66,0.474
+OP2 - Retrieve all,Read-only,480.02,0.48
+OP2 - Retrieve all,Read-only,476.06,0.476
+OP2 - Retrieve all,Read-only,471.8,0.472
+OP2 - Retrieve all,Read-only,472.24,0.472
+OP2 - Retrieve all,Read-only,484.49,0.484
+OP2 - Retrieve all,Read-only,479.3,0.479
+OP2 - Retrieve all,Read-only,476.43,0.476
+OP2 - Retrieve all,Read-only,476.95,0.477
+OP2 - Retrieve all,Read-only,474.94,0.475
+OP2 - Retrieve all,Read-only,474.01,0.474
+OP2 - Retrieve all,Read-only,477.09,0.477
+OP2 - Retrieve all,Read-only,468.54,0.469
+OP2 - Retrieve all,Read-only,478.27,0.478
+OP2 - Retrieve all,Read-only,481.78,0.482
+OP2 - Retrieve all,Read-only,476.47,0.476
+OP2 - Retrieve all,Read-only,473.96,0.474
+OP2 - Retrieve all,Read-only,473.28,0.473
+OP2 - Retrieve all,Read-only,473.29,0.473
+OP2 - Retrieve all,Read-only,471.09,0.471
+OP2 - Retrieve all,Read-only,471.27,0.471
+OP2 - Retrieve all,Read-only,470.44,0.47
+OP2 - Retrieve all,Read-only,475.16,0.475
+OP2 - Retrieve all,Read-only,478.62,0.479
+OP2 - Retrieve all,Read-only,478.05,0.478
+OP2 - Retrieve all,Read-only,472.73,0.473
+OP2 - Retrieve all,Read-only,474.03,0.474
+OP2 - Retrieve all,Read-only,474.97,0.475
+OP2 - Retrieve all,Read-only,477.68,0.478
+OP2 - Retrieve all,Read-only,478.86,0.479
+OP2 - Retrieve all,Read-only,478.92,0.479
+OP2 - Retrieve all,Read-only,482.12,0.482
+OP2 - Retrieve all,Read-only,480.19,0.48
+OP2 - Retrieve all,Read-only,471.81,0.472
+OP2 - Retrieve all,Read-only,482.14,0.482
+OP2 - Retrieve all,Read-only,474.06,0.474
+OP2 - Retrieve all,Read-only,471.25,0.471
+OP2 - Retrieve all,Read-only,467.87,0.468
+OP2 - Retrieve all,Read-only,474.23,0.474
+OP2 - Retrieve all,Read-only,471.88,0.472
+OP2 - Retrieve all,Read-only,473.91,0.474
+OP2 - Retrieve all,Read-only,477.78,0.478
+OP2 - Retrieve all,Read-only,477.97,0.478
+OP2 - Retrieve all,Read-only,473.24,0.473
+OP2 - Retrieve all,Read-only,476.13,0.476
+OP2 - Retrieve all,Read-only,477.22,0.477
+OP2 - Retrieve all,Read-only,482.7,0.483
+OP2 - Retrieve all,Read-only,481.41,0.481
+OP2 - Retrieve all,Read-only,487.14,0.487
+OP2 - Retrieve all,Read-only,484.36,0.484
+OP2 - Retrieve all,Read-only,484.23,0.484
+OP2 - Retrieve all,Read-only,482.3,0.482
+OP2 - Retrieve all,Read-only,469.04,0.469
+OP2 - Retrieve all,Read-only,469.99,0.47
+OP2 - Retrieve all,Read-only,471.04,0.471
+OP2 - Retrieve all,Read-only,473.38,0.473
+OP2 - Retrieve all,Read-only,470.96,0.471
+OP2 - Retrieve all,Read-only,469.39,0.469
+OP2 - Retrieve all,Read-only,480.72,0.481
+OP2 - Retrieve all,Read-only,481.7,0.482
+OP2 - Retrieve all,Read-only,472.75,0.473
+OP2 - Retrieve all,Read-only,471.08,0.471
+OP2 - Retrieve all,Read-only,482.13,0.482
+OP2 - Retrieve all,Read-only,471.81,0.472
+OP2 - Retrieve all,Read-only,473.3,0.473
+OP2 - Retrieve all,Read-only,469.55,0.47
+OP2 - Retrieve all,Read-only,473.56,0.474
+OP2 - Retrieve all,Read-only,470.7,0.471
+OP2 - Retrieve all,Read-only,475.15,0.475
+OP2 - Retrieve all,Read-only,473.51,0.474
+OP2 - Retrieve all,Read-only,466.44,0.466
+OP2 - Retrieve all,Read-only,480.24,0.48
+OP2 - Retrieve all,Read-only,478.36,0.478
+OP2 - Retrieve all,Read-only,478.52,0.479
+OP2 - Retrieve all,Read-only,470.45,0.47
+OP2 - Retrieve all,Read-only,474.97,0.475
+OP2 - Retrieve all,Read-only,479.46,0.479
+OP2 - Retrieve all,Read-only,482.22,0.482
+OP2 - Retrieve all,Read-only,483.04,0.483
+OP2 - Retrieve all,Read-only,481.69,0.482
+OP2 - Retrieve all,Read-only,485.11,0.485
+OP2 - Retrieve all,Read-only,483.19,0.483
+OP2 - Retrieve all,Read-only,481.31,0.481
+OP2 - Retrieve all,Read-only,478.28,0.478
+OP2 - Retrieve all,Read-only,473.73,0.474
+OP2 - Retrieve all,Read-only,474.24,0.474
+OP2 - Retrieve all,Read-only,479.47,0.479
+OP2 - Retrieve all,Read-only,476.27,0.476
+OP2 - Retrieve all,Read-only,479.59,0.48
+OP2 - Retrieve all,Read-only,478.84,0.479
+OP2 - Retrieve all,Read-only,476.55,0.477
+OP2 - Retrieve all,Read-only,479.05,0.479
+OP2 - Retrieve all,Read-only,475.56,0.476
+OP2 - Retrieve all,Read-only,478.04,0.478
+OP2 - Retrieve all,Read-only,476.62,0.477
+OP2 - Retrieve all,Read-only,470.75,0.471
+OP2 - Retrieve all,Read-only,466.72,0.467
+OP2 - Retrieve all,Read-only,481.33,0.481
+OP2 - Retrieve all,Read-only,479.85,0.48
+OP2 - Retrieve all,Read-only,476.12,0.476
+OP2 - Retrieve all,Read-only,470.84,0.471
+OP2 - Retrieve all,Read-only,469.23,0.469
+OP2 - Retrieve all,Read-only,471.36,0.471
+OP2 - Retrieve all,Read-only,467.81,0.468
+OP2 - Retrieve all,Read-only,465.32,0.465
+OP2 - Retrieve all,Read-only,475.14,0.475
+OP2 - Retrieve all,Read-only,469.39,0.469
+OP2 - Retrieve all,Read-only,479.38,0.479
+OP2 - Retrieve all,Read-only,475.62,0.476
+OP2 - Retrieve all,Read-only,480.55,0.481
+OP2 - Retrieve all,Read-only,478.71,0.479
+OP2 - Retrieve all,Read-only,468.51,0.469
+OP2 - Retrieve all,Read-only,472.25,0.472
+OP2 - Retrieve all,Read-only,481.46,0.481
+OP2 - Retrieve all,Read-only,468.28,0.468
+OP2 - Retrieve all,Read-only,461.4,0.461
+OP2 - Retrieve all,Read-only,466.91,0.467
+OP2 - Retrieve all,Read-only,462.75,0.463
+OP2 - Retrieve all,Read-only,467.44,0.467
+OP2 - Retrieve all,Read-only,464.67,0.465
+OP2 - Retrieve all,Read-only,467.07,0.467
+OP2 - Retrieve all,Read-only,462.99,0.463
+OP2 - Retrieve all,Read-only,465.45,0.465
+OP2 - Retrieve all,Read-only,475.37,0.475
+OP2 - Retrieve all,Read-only,477.43,0.477
+OP2 - Retrieve all,Read-only,474.02,0.474
+OP2 - Retrieve all,Read-only,480.38,0.48
+OP2 - Retrieve all,Read-only,474.68,0.475
+OP2 - Retrieve all,Read-only,464.46,0.464
+OP2 - Retrieve all,Read-only,466.08,0.466
+OP2 - Retrieve all,Read-only,467.1,0.467
+OP2 - Retrieve all,Read-only,471.49,0.471
+OP2 - Retrieve all,Read-only,469.07,0.469
+OP2 - Retrieve all,Read-only,472.43,0.472
+OP2 - Retrieve all,Read-only,468.74,0.469
+OP2 - Retrieve all,Read-only,483.58,0.484
+OP2 - Retrieve all,Read-only,472.84,0.473
+OP2 - Retrieve all,Read-only,478.86,0.479
+OP2 - Retrieve all,Read-only,480.47,0.48
+OP2 - Retrieve all,Read-only,475.04,0.475
+OP2 - Retrieve all,Read-only,471.93,0.472
+OP2 - Retrieve all,Read-only,470.46,0.47
+OP2 - Retrieve all,Read-only,476.6,0.477
+OP2 - Retrieve all,Read-only,478.4,0.478
+OP2 - Retrieve all,Read-only,476.47,0.476
+OP2 - Retrieve all,Read-only,469.69,0.47
+OP2 - Retrieve all,Read-only,474.44,0.474
+OP2 - Retrieve all,Read-only,481.21,0.481
+OP2 - Retrieve all,Read-only,477.86,0.478
+OP2 - Retrieve all,Read-only,480.63,0.481
+OP2 - Retrieve all,Read-only,461.88,0.462
+OP2 - Retrieve all,Read-only,462.12,0.462
+OP2 - Retrieve all,Read-only,466.51,0.467
+OP2 - Retrieve all,Read-only,474.0,0.474
+OP2 - Retrieve all,Read-only,478.05,0.478
+OP2 - Retrieve all,Read-only,480.32,0.48
+OP2 - Retrieve all,Read-only,476.92,0.477
+OP2 - Retrieve all,Read-only,471.02,0.471
+OP2 - Retrieve all,Read-only,469.33,0.469
+OP2 - Retrieve all,Read-only,472.96,0.473
+OP2 - Retrieve all,Read-only,469.84,0.47
+OP2 - Retrieve all,Read-only,467.85,0.468
+OP2 - Retrieve all,Read-only,473.94,0.474
+OP2 - Retrieve all,Read-only,487.07,0.487
+OP2 - Retrieve all,Read-only,481.64,0.482
+OP2 - Retrieve all,Read-only,482.46,0.482
+OP2 - Retrieve all,Read-only,481.14,0.481
+OP2 - Retrieve all,Read-only,477.5,0.477
+OP2 - Retrieve all,Read-only,483.55,0.484
+OP2 - Retrieve all,Read-only,474.55,0.475
+OP2 - Retrieve all,Read-only,473.3,0.473
+OP2 - Retrieve all,Read-only,476.75,0.477
+OP2 - Retrieve all,Read-only,472.97,0.473
+OP2 - Retrieve all,Read-only,474.09,0.474
+OP2 - Retrieve all,Read-only,479.63,0.48
+OP2 - Retrieve all,Read-only,475.33,0.475
+OP2 - Retrieve all,Read-only,471.44,0.471
+OP2 - Retrieve all,Read-only,480.39,0.48
+OP2 - Retrieve all,Read-only,480.63,0.481
+OP2 - Retrieve all,Read-only,473.55,0.474
+OP2 - Retrieve all,Read-only,482.6,0.483
+OP2 - Retrieve all,Read-only,481.46,0.481
+OP2 - Retrieve all,Read-only,481.0,0.481
+OP2 - Retrieve all,Read-only,478.28,0.478
+OP2 - Retrieve all,Read-only,474.94,0.475
+OP2 - Retrieve all,Read-only,477.87,0.478
+OP2 - Retrieve all,Read-only,474.58,0.475
+OP2 - Retrieve all,Read-only,470.71,0.471
+OP2 - Retrieve all,Read-only,491.54,0.492
+OP2 - Retrieve all,Read-only,477.64,0.478
+OP2 - Retrieve all,Read-only,472.68,0.473
+OP2 - Retrieve all,Read-only,471.96,0.472
+OP2 - Retrieve all,Read-only,476.5,0.476
+OP2 - Retrieve all,Read-only,477.47,0.477
+OP2 - Retrieve all,Read-only,481.52,0.482
+OP2 - Retrieve all,Read-only,484.71,0.485
+OP2 - Retrieve all,Read-only,480.72,0.481
+OP2 - Retrieve all,Read-only,479.51,0.48
+OP2 - Retrieve all,Read-only,477.55,0.478
+OP2 - Retrieve all,Read-only,467.32,0.467
+OP2 - Retrieve all,Read-only,470.92,0.471
+OP2 - Retrieve all,Read-only,469.3,0.469
+OP2 - Retrieve all,Read-only,478.16,0.478
+OP2 - Retrieve all,Read-only,478.51,0.479
+OP2 - Retrieve all,Read-only,476.73,0.477
+OP2 - Retrieve all,Read-only,479.89,0.48
+OP2 - Retrieve all,Read-only,475.55,0.476
+OP2 - Retrieve all,Read-only,481.78,0.482
+OP2 - Retrieve all,Read-only,476.3,0.476
+OP2 - Retrieve all,Read-only,476.48,0.476
+OP2 - Retrieve all,Read-only,477.16,0.477
+OP2 - Retrieve all,Read-only,466.13,0.466
+OP2 - Retrieve all,Read-only,469.44,0.469
+OP2 - Retrieve all,Read-only,470.75,0.471
+OP2 - Retrieve all,Read-only,470.52,0.471
+OP2 - Retrieve all,Read-only,469.36,0.469
+OP2 - Retrieve all,Read-only,466.53,0.467
+OP2 - Retrieve all,Read-only,467.68,0.468
+OP2 - Retrieve all,Read-only,474.64,0.475
+OP2 - Retrieve all,Read-only,468.71,0.469
+OP2 - Retrieve all,Read-only,470.15,0.47
+OP2 - Retrieve all,Read-only,473.92,0.474
+OP2 - Retrieve all,Read-only,476.47,0.476
+OP2 - Retrieve all,Read-only,468.08,0.468
+OP2 - Retrieve all,Read-only,465.52,0.466
+OP2 - Retrieve all,Read-only,465.96,0.466
+OP2 - Retrieve all,Read-only,469.45,0.469
+OP2 - Retrieve all,Read-only,472.26,0.472
+OP2 - Retrieve all,Read-only,475.58,0.476
+OP2 - Retrieve all,Read-only,480.11,0.48
+OP2 - Retrieve all,Read-only,477.55,0.478
+OP2 - Retrieve all,Read-only,469.11,0.469
+OP2 - Retrieve all,Read-only,468.03,0.468
+OP2 - Retrieve all,Read-only,475.03,0.475
+OP2 - Retrieve all,Read-only,466.65,0.467
+OP2 - Retrieve all,Read-only,471.8,0.472
+OP2 - Retrieve all,Read-only,473.42,0.473
+OP2 - Retrieve all,Read-only,474.97,0.475
+OP2 - Retrieve all,Read-only,468.46,0.468
+OP2 - Retrieve all,Read-only,475.39,0.475
+OP2 - Retrieve all,Read-only,477.03,0.477
+OP2 - Retrieve all,Read-only,474.66,0.475
+OP2 - Retrieve all,Read-only,475.2,0.475
+OP2 - Retrieve all,Read-only,475.22,0.475
+OP2 - Retrieve all,Read-only,474.26,0.474
+OP2 - Retrieve all,Read-only,465.16,0.465
+OP2 - Retrieve all,Read-only,476.87,0.477
+OP2 - Retrieve all,Read-only,477.05,0.477
+OP2 - Retrieve all,Read-only,476.62,0.477
+OP2 - Retrieve all,Read-only,474.62,0.475
+OP2 - Retrieve all,Read-only,473.68,0.474
+OP2 - Retrieve all,Read-only,474.68,0.475
+OP2 - Retrieve all,Read-only,475.5,0.475
+OP2 - Retrieve all,Read-only,476.1,0.476
+OP2 - Retrieve all,Read-only,471.32,0.471
+OP2 - Retrieve all,Read-only,478.53,0.479
+OP2 - Retrieve all,Read-only,474.55,0.475
+OP2 - Retrieve all,Read-only,468.8,0.469
+OP2 - Retrieve all,Read-only,468.68,0.469
+OP2 - Retrieve all,Read-only,468.65,0.469
+OP2 - Retrieve all,Read-only,472.88,0.473
+OP2 - Retrieve all,Read-only,471.76,0.472
+OP2 - Retrieve all,Read-only,463.49,0.463
+OP2 - Retrieve all,Read-only,467.92,0.468
+OP2 - Retrieve all,Read-only,480.26,0.48
+OP2 - Retrieve all,Read-only,475.4,0.475
+OP2 - Retrieve all,Read-only,482.34,0.482
+OP2 - Retrieve all,Read-only,469.92,0.47
+OP2 - Retrieve all,Read-only,478.09,0.478
+OP2 - Retrieve all,Read-only,483.7,0.484
+OP2 - Retrieve all,Read-only,480.14,0.48
+OP2 - Retrieve all,Read-only,475.7,0.476
+OP2 - Retrieve all,Read-only,478.56,0.479
+OP2 - Retrieve all,Read-only,495.11,0.495
+OP2 - Retrieve all,Read-only,486.11,0.486
+OP2 - Retrieve all,Read-only,479.2,0.479
+OP2 - Retrieve all,Read-only,471.33,0.471
+OP2 - Retrieve all,Read-only,479.53,0.48
+OP2 - Retrieve all,Read-only,476.03,0.476
+OP2 - Retrieve all,Read-only,480.7,0.481
+OP2 - Retrieve all,Read-only,476.41,0.476
+OP2 - Retrieve all,Read-only,480.31,0.48
+OP2 - Retrieve all,Read-only,483.36,0.483
+OP2 - Retrieve all,Read-only,471.16,0.471
+OP2 - Retrieve all,Read-only,469.73,0.47
+OP2 - Retrieve all,Read-only,473.79,0.474
+OP2 - Retrieve all,Read-only,468.23,0.468
+OP2 - Retrieve all,Read-only,467.46,0.467
+OP2 - Retrieve all,Read-only,469.57,0.47
+OP2 - Retrieve all,Read-only,474.21,0.474
+OP2 - Retrieve all,Read-only,476.1,0.476
+OP2 - Retrieve all,Read-only,480.53,0.481
+OP2 - Retrieve all,Read-only,471.94,0.472
+OP2 - Retrieve all,Read-only,478.09,0.478
+OP2 - Retrieve all,Read-only,476.01,0.476
+OP2 - Retrieve all,Read-only,474.16,0.474
+OP2 - Retrieve all,Read-only,468.22,0.468
+OP2 - Retrieve all,Read-only,478.55,0.479
+OP2 - Retrieve all,Read-only,479.53,0.48
+OP2 - Retrieve all,Read-only,475.32,0.475
+OP2 - Retrieve all,Read-only,476.42,0.476
+OP2 - Retrieve all,Read-only,466.32,0.466
+OP2 - Retrieve all,Read-only,468.45,0.468
+OP2 - Retrieve all,Read-only,466.45,0.466
+OP2 - Retrieve all,Read-only,469.39,0.469
+OP2 - Retrieve all,Read-only,477.43,0.477
+OP2 - Retrieve all,Read-only,466.59,0.467
+OP2 - Retrieve all,Read-only,472.48,0.472
+OP2 - Retrieve all,Read-only,474.65,0.475
+OP2 - Retrieve all,Read-only,477.87,0.478
+OP2 - Retrieve all,Read-only,465.2,0.465
+OP2 - Retrieve all,Read-only,473.12,0.473
+OP2 - Retrieve all,Read-only,471.27,0.471
+OP2 - Retrieve all,Read-only,479.02,0.479
+OP2 - Retrieve all,Read-only,477.56,0.478
+OP2 - Retrieve all,Read-only,477.55,0.478
+OP2 - Retrieve all,Read-only,475.36,0.475
+OP2 - Retrieve all,Read-only,474.98,0.475
+OP2 - Retrieve all,Read-only,476.59,0.477
+OP2 - Retrieve all,Read-only,465.61,0.466
+OP2 - Retrieve all,Read-only,468.36,0.468
+OP2 - Retrieve all,Read-only,466.98,0.467
+OP2 - Retrieve all,Read-only,474.71,0.475
+OP2 - Retrieve all,Read-only,477.4,0.477
+OP2 - Retrieve all,Read-only,479.5,0.479
+OP2 - Retrieve all,Read-only,475.5,0.475
+OP2 - Retrieve all,Read-only,477.23,0.477
+OP2 - Retrieve all,Read-only,476.66,0.477
+OP2 - Retrieve all,Read-only,470.65,0.471
+OP2 - Retrieve all,Read-only,468.15,0.468
+OP2 - Retrieve all,Read-only,471.53,0.472
+OP2 - Retrieve all,Read-only,477.72,0.478
+OP2 - Retrieve all,Read-only,476.73,0.477
+OP2 - Retrieve all,Read-only,477.82,0.478
+OP2 - Retrieve all,Read-only,466.19,0.466
+OP2 - Retrieve all,Read-only,476.36,0.476
+OP2 - Retrieve all,Read-only,480.26,0.48
+OP2 - Retrieve all,Read-only,475.34,0.475
+OP2 - Retrieve all,Read-only,479.12,0.479
+OP2 - Retrieve all,Read-only,478.41,0.478
+OP2 - Retrieve all,Read-only,463.18,0.463
+OP2 - Retrieve all,Read-only,466.67,0.467
+OP2 - Retrieve all,Read-only,476.44,0.476
+OP2 - Retrieve all,Read-only,479.41,0.479
+OP2 - Retrieve all,Read-only,473.78,0.474
+OP2 - Retrieve all,Read-only,476.65,0.477
+OP2 - Retrieve all,Read-only,476.95,0.477
+OP2 - Retrieve all,Read-only,473.27,0.473
+OP2 - Retrieve all,Read-only,472.54,0.473
+OP2 - Retrieve all,Read-only,477.91,0.478
+OP2 - Retrieve all,Read-only,467.44,0.467
+OP2 - Retrieve all,Read-only,468.86,0.469
+OP2 - Retrieve all,Read-only,467.71,0.468
+OP2 - Retrieve all,Read-only,469.24,0.469
+OP2 - Retrieve all,Read-only,466.14,0.466
+OP2 - Retrieve all,Read-only,468.11,0.468
+OP2 - Retrieve all,Read-only,467.26,0.467
+OP2 - Retrieve all,Read-only,466.43,0.466
+OP2 - Retrieve all,Read-only,480.08,0.48
+OP2 - Retrieve all,Read-only,477.03,0.477
+OP2 - Retrieve all,Read-only,477.79,0.478
+OP2 - Retrieve all,Read-only,465.21,0.465
+OP2 - Retrieve all,Read-only,472.97,0.473
+OP2 - Retrieve all,Read-only,488.56,0.489
+OP2 - Retrieve all,Read-write,858.93,0.859
+OP2 - Retrieve all,Read-write,857.03,0.857
+OP2 - Retrieve all,Read-write,858.54,0.859
+OP2 - Retrieve all,Read-write,860.32,0.86
+OP2 - Retrieve all,Read-write,863.9,0.864
+OP2 - Retrieve all,Read-write,858.68,0.859
+OP2 - Retrieve all,Read-write,870.22,0.87
+OP2 - Retrieve all,Read-write,864.4,0.864
+OP2 - Retrieve all,Read-write,863.86,0.864
+OP2 - Retrieve all,Read-write,859.83,0.86
+OP2 - Retrieve all,Read-write,858.97,0.859
+OP2 - Retrieve all,Read-write,865.76,0.866
+OP2 - Retrieve all,Read-write,859.88,0.86
+OP2 - Retrieve all,Read-write,861.76,0.862
+OP2 - Retrieve all,Read-write,863.87,0.864
+OP2 - Retrieve all,Read-write,863.53,0.864
+OP2 - Retrieve all,Read-write,876.62,0.877
+OP2 - Retrieve all,Read-write,862.23,0.862
+OP2 - Retrieve all,Read-write,871.21,0.871
+OP2 - Retrieve all,Read-write,859.47,0.859
+OP2 - Retrieve all,Read-write,870.15,0.87
+OP2 - Retrieve all,Read-write,877.19,0.877
+OP2 - Retrieve all,Read-write,864.89,0.865
+OP2 - Retrieve all,Read-write,868.4,0.868
+OP2 - Retrieve all,Read-write,861.63,0.862
+OP2 - Retrieve all,Read-write,858.34,0.858
+OP2 - Retrieve all,Read-write,857.71,0.858
+OP2 - Retrieve all,Read-write,856.67,0.857
+OP2 - Retrieve all,Read-write,860.17,0.86
+OP2 - Retrieve all,Read-write,873.31,0.873
+OP2 - Retrieve all,Read-write,881.1,0.881
+OP2 - Retrieve all,Read-write,878.61,0.879
+OP2 - Retrieve all,Read-write,859.3,0.859
+OP2 - Retrieve all,Read-write,859.31,0.859
+OP2 - Retrieve all,Read-write,863.02,0.863
+OP2 - Retrieve all,Read-write,873.63,0.874
+OP2 - Retrieve all,Read-write,876.34,0.876
+OP2 - Retrieve all,Read-write,866.33,0.866
+OP2 - Retrieve all,Read-write,873.28,0.873
+OP2 - Retrieve all,Read-write,871.75,0.872
+OP2 - Retrieve all,Read-write,878.41,0.878
+OP2 - Retrieve all,Read-write,874.62,0.875
+OP2 - Retrieve all,Read-write,873.91,0.874
+OP2 - Retrieve all,Read-write,877.2,0.877
+OP2 - Retrieve all,Read-write,873.94,0.874
+OP2 - Retrieve all,Read-write,873.12,0.873
+OP2 - Retrieve all,Read-write,879.75,0.88
+OP2 - Retrieve all,Read-write,874.44,0.874
+OP2 - Retrieve all,Read-write,874.6,0.875
+OP2 - Retrieve all,Read-write,874.05,0.874
+OP2 - Retrieve all,Read-write,872.88,0.873
+OP2 - Retrieve all,Read-write,876.01,0.876
+OP2 - Retrieve all,Read-write,871.9,0.872
+OP2 - Retrieve all,Read-write,877.84,0.878
+OP2 - Retrieve all,Read-write,856.89,0.857
+OP2 - Retrieve all,Read-write,854.26,0.854
+OP2 - Retrieve all,Read-write,874.22,0.874
+OP2 - Retrieve all,Read-write,859.59,0.86
+OP2 - Retrieve all,Read-write,872.91,0.873
+OP2 - Retrieve all,Read-write,859.61,0.86
+OP2 - Retrieve all,Read-write,865.55,0.866
+OP2 - Retrieve all,Read-write,878.57,0.879
+OP2 - Retrieve all,Read-write,860.34,0.86
+OP2 - Retrieve all,Read-write,870.66,0.871
+OP2 - Retrieve all,Read-write,875.46,0.875
+OP2 - Retrieve all,Read-write,858.12,0.858
+OP2 - Retrieve all,Read-write,858.45,0.858
+OP2 - Retrieve all,Read-write,854.96,0.855
+OP2 - Retrieve all,Read-write,854.04,0.854
+OP2 - Retrieve all,Read-write,878.7,0.879
+OP2 - Retrieve all,Read-write,879.75,0.88
+OP2 - Retrieve all,Read-write,877.5,0.877
+OP2 - Retrieve all,Read-write,874.37,0.874
+OP2 - Retrieve all,Read-write,877.07,0.877
+OP2 - Retrieve all,Read-write,856.53,0.857
+OP2 - Retrieve all,Read-write,859.09,0.859
+OP2 - Retrieve all,Read-write,855.38,0.855
+OP2 - Retrieve all,Read-write,861.45,0.861
+OP2 - Retrieve all,Read-write,860.21,0.86
+OP2 - Retrieve all,Read-write,861.31,0.861
+OP2 - Retrieve all,Read-write,862.87,0.863
+OP2 - Retrieve all,Read-write,858.48,0.858
+OP2 - Retrieve all,Read-write,888.94,0.889
+OP2 - Retrieve all,Read-write,860.24,0.86
+OP2 - Retrieve all,Read-write,858.06,0.858
+OP2 - Retrieve all,Read-write,852.83,0.853
+OP2 - Retrieve all,Read-write,856.15,0.856
+OP2 - Retrieve all,Read-write,860.12,0.86
+OP2 - Retrieve all,Read-write,855.22,0.855
+OP2 - Retrieve all,Read-write,858.07,0.858
+OP2 - Retrieve all,Read-write,858.26,0.858
+OP2 - Retrieve all,Read-write,853.83,0.854
+OP2 - Retrieve all,Read-write,884.95,0.885
+OP2 - Retrieve all,Read-write,853.52,0.854
+OP2 - Retrieve all,Read-write,865.49,0.865
+OP2 - Retrieve all,Read-write,860.58,0.861
+OP2 - Retrieve all,Read-write,856.62,0.857
+OP2 - Retrieve all,Read-write,859.14,0.859
+OP2 - Retrieve all,Read-write,861.44,0.861
+OP2 - Retrieve all,Read-write,872.53,0.873
+OP2 - Retrieve all,Read-write,797.35,0.797
+OP2 - Retrieve all,Read-write,806.98,0.807
+OP2 - Retrieve all,Read-write,803.98,0.804
+OP2 - Retrieve all,Read-write,802.46,0.802
+OP2 - Retrieve all,Read-write,801.91,0.802
+OP2 - Retrieve all,Read-write,803.85,0.804
+OP2 - Retrieve all,Read-write,799.55,0.8
+OP2 - Retrieve all,Read-write,777.97,0.778
+OP2 - Retrieve all,Read-write,783.1,0.783
+OP2 - Retrieve all,Read-write,803.76,0.804
+OP2 - Retrieve all,Read-write,780.99,0.781
+OP2 - Retrieve all,Read-write,775.44,0.775
+OP2 - Retrieve all,Read-write,777.72,0.778
+OP2 - Retrieve all,Read-write,784.9,0.785
+OP2 - Retrieve all,Read-write,803.02,0.803
+OP2 - Retrieve all,Read-write,776.12,0.776
+OP2 - Retrieve all,Read-write,786.79,0.787
+OP2 - Retrieve all,Read-write,794.2,0.794
+OP2 - Retrieve all,Read-write,775.09,0.775
+OP2 - Retrieve all,Read-write,778.16,0.778
+OP2 - Retrieve all,Read-write,780.93,0.781
+OP2 - Retrieve all,Read-write,783.76,0.784
+OP2 - Retrieve all,Read-write,801.26,0.801
+OP2 - Retrieve all,Read-write,778.88,0.779
+OP2 - Retrieve all,Read-write,797.63,0.798
+OP2 - Retrieve all,Read-write,801.66,0.802
+OP2 - Retrieve all,Read-write,801.06,0.801
+OP2 - Retrieve all,Read-write,798.14,0.798
+OP2 - Retrieve all,Read-write,801.78,0.802
+OP2 - Retrieve all,Read-write,798.19,0.798
+OP2 - Retrieve all,Read-write,795.63,0.796
+OP2 - Retrieve all,Read-write,800.03,0.8
+OP2 - Retrieve all,Read-write,796.46,0.796
+OP2 - Retrieve all,Read-write,798.87,0.799
+OP2 - Retrieve all,Read-write,793.96,0.794
+OP2 - Retrieve all,Read-write,798.68,0.799
+OP2 - Retrieve all,Read-write,790.43,0.79
+OP2 - Retrieve all,Read-write,796.83,0.797
+OP2 - Retrieve all,Read-write,797.05,0.797
+OP2 - Retrieve all,Read-write,799.83,0.8
+OP2 - Retrieve all,Read-write,796.01,0.796
+OP2 - Retrieve all,Read-write,796.79,0.797
+OP2 - Retrieve all,Read-write,802.35,0.802
+OP2 - Retrieve all,Read-write,791.98,0.792
+OP2 - Retrieve all,Read-write,797.7,0.798
+OP2 - Retrieve all,Read-write,794.55,0.795
+OP2 - Retrieve all,Read-write,792.95,0.793
+OP2 - Retrieve all,Read-write,793.43,0.793
+OP2 - Retrieve all,Read-write,794.79,0.795
+OP2 - Retrieve all,Read-write,788.77,0.789
+OP2 - Retrieve all,Read-write,797.19,0.797
+OP2 - Retrieve all,Read-write,793.8,0.794
+OP2 - Retrieve all,Read-write,801.99,0.802
+OP2 - Retrieve all,Read-write,793.74,0.794
+OP2 - Retrieve all,Read-write,791.06,0.791
+OP2 - Retrieve all,Read-write,801.95,0.802
+OP2 - Retrieve all,Read-write,795.43,0.795
+OP2 - Retrieve all,Read-write,795.72,0.796
+OP2 - Retrieve all,Read-write,792.2,0.792
+OP2 - Retrieve all,Read-write,796.11,0.796
+OP2 - Retrieve all,Read-write,791.53,0.792
+OP2 - Retrieve all,Read-write,774.91,0.775
+OP2 - Retrieve all,Read-write,818.62,0.819
+OP2 - Retrieve all,Read-write,789.51,0.79
+OP2 - Retrieve all,Read-write,796.5,0.796
+OP2 - Retrieve all,Read-write,793.77,0.794
+OP2 - Retrieve all,Read-write,792.75,0.793
+OP2 - Retrieve all,Read-write,792.97,0.793
+OP2 - Retrieve all,Read-write,776.83,0.777
+OP2 - Retrieve all,Read-write,783.41,0.783
+OP2 - Retrieve all,Read-write,780.97,0.781
+OP2 - Retrieve all,Read-write,784.43,0.784
+OP2 - Retrieve all,Read-write,794.99,0.795
+OP2 - Retrieve all,Read-write,790.63,0.791
+OP2 - Retrieve all,Read-write,797.33,0.797
+OP2 - Retrieve all,Read-write,801.25,0.801
+OP2 - Retrieve all,Read-write,797.71,0.798
+OP2 - Retrieve all,Read-write,794.6,0.795
+OP2 - Retrieve all,Read-write,792.3,0.792
+OP2 - Retrieve all,Read-write,793.8,0.794
+OP2 - Retrieve all,Read-write,794.35,0.794
+OP2 - Retrieve all,Read-write,796.96,0.797
+OP2 - Retrieve all,Read-write,802.27,0.802
+OP2 - Retrieve all,Read-write,805.28,0.805
+OP2 - Retrieve all,Read-write,795.02,0.795
+OP2 - Retrieve all,Read-write,797.49,0.797
+OP2 - Retrieve all,Read-write,799.14,0.799
+OP2 - Retrieve all,Read-write,797.91,0.798
+OP2 - Retrieve all,Read-write,797.69,0.798
+OP2 - Retrieve all,Read-write,793.81,0.794
+OP2 - Retrieve all,Read-write,793.73,0.794
+OP2 - Retrieve all,Read-write,792.41,0.792
+OP2 - Retrieve all,Read-write,797.99,0.798
+OP2 - Retrieve all,Read-write,790.75,0.791
+OP2 - Retrieve all,Read-write,790.9,0.791
+OP2 - Retrieve all,Read-write,794.7,0.795
+OP2 - Retrieve all,Read-write,792.75,0.793
+OP2 - Retrieve all,Read-write,797.37,0.797
+OP2 - Retrieve all,Read-write,797.96,0.798
+OP2 - Retrieve all,Read-write,792.13,0.792
+OP2 - Retrieve all,Read-write,787.89,0.788
+OP2 - Retrieve all,Read-write,797.66,0.798
+OP2 - Retrieve all,Read-write,790.82,0.791
+OP2 - Retrieve all,Read-write,792.67,0.793
+OP2 - Retrieve all,Read-write,792.34,0.792
+OP2 - Retrieve all,Read-write,799.4,0.799
+OP2 - Retrieve all,Read-write,794.25,0.794
+OP2 - Retrieve all,Read-write,789.49,0.789
+OP2 - Retrieve all,Read-write,787.75,0.788
+OP2 - Retrieve all,Read-write,790.42,0.79
+OP2 - Retrieve all,Read-write,806.49,0.806
+OP2 - Retrieve all,Read-write,801.47,0.801
+OP2 - Retrieve all,Read-write,799.88,0.8
+OP2 - Retrieve all,Read-write,798.9,0.799
+OP2 - Retrieve all,Read-write,800.53,0.801
+OP2 - Retrieve all,Read-write,803.23,0.803
+OP2 - Retrieve all,Read-write,791.06,0.791
+OP2 - Retrieve all,Read-write,791.28,0.791
+OP2 - Retrieve all,Read-write,784.24,0.784
+OP2 - Retrieve all,Read-write,798.91,0.799
+OP2 - Retrieve all,Read-write,808.53,0.809
+OP2 - Retrieve all,Read-write,786.74,0.787
+OP2 - Retrieve all,Read-write,788.98,0.789
+OP2 - Retrieve all,Read-write,805.32,0.805
+OP2 - Retrieve all,Read-write,793.38,0.793
+OP2 - Retrieve all,Read-write,786.8,0.787
+OP2 - Retrieve all,Read-write,785.01,0.785
+OP2 - Retrieve all,Read-write,793.38,0.793
+OP2 - Retrieve all,Read-write,805.52,0.806
+OP2 - Retrieve all,Read-write,805.86,0.806
+OP2 - Retrieve all,Read-write,811.13,0.811
+OP2 - Retrieve all,Read-write,806.76,0.807
+OP2 - Retrieve all,Read-write,810.56,0.811
+OP2 - Retrieve all,Read-write,807.74,0.808
+OP2 - Retrieve all,Read-write,810.57,0.811
+OP2 - Retrieve all,Read-write,805.89,0.806
+OP2 - Retrieve all,Read-write,796.82,0.797
+OP2 - Retrieve all,Read-write,781.64,0.782
+OP2 - Retrieve all,Read-write,784.88,0.785
+OP2 - Retrieve all,Read-write,789.49,0.789
+OP2 - Retrieve all,Read-write,800.6,0.801
+OP2 - Retrieve all,Read-write,803.36,0.803
+OP2 - Retrieve all,Read-write,807.78,0.808
+OP2 - Retrieve all,Read-write,809.01,0.809
+OP2 - Retrieve all,Read-write,807.62,0.808
+OP2 - Retrieve all,Read-write,808.17,0.808
+OP2 - Retrieve all,Read-write,809.3,0.809
+OP2 - Retrieve all,Read-write,799.81,0.8
+OP2 - Retrieve all,Read-write,804.52,0.805
+OP2 - Retrieve all,Read-write,796.32,0.796
+OP2 - Retrieve all,Read-write,805.49,0.805
+OP2 - Retrieve all,Read-write,809.54,0.81
+OP2 - Retrieve all,Read-write,808.49,0.808
+OP2 - Retrieve all,Read-write,803.51,0.804
+OP2 - Retrieve all,Read-write,802.94,0.803
+OP2 - Retrieve all,Read-write,794.26,0.794
+OP2 - Retrieve all,Read-write,782.94,0.783
+OP2 - Retrieve all,Read-write,803.8,0.804
+OP2 - Retrieve all,Read-write,805.12,0.805
+OP2 - Retrieve all,Read-write,810.88,0.811
+OP2 - Retrieve all,Read-write,808.83,0.809
+OP2 - Retrieve all,Read-write,789.51,0.79
+OP2 - Retrieve all,Read-write,823.32,0.823
+OP2 - Retrieve all,Read-write,786.25,0.786
+OP2 - Retrieve all,Read-write,788.35,0.788
+OP2 - Retrieve all,Read-write,802.09,0.802
+OP2 - Retrieve all,Read-write,807.29,0.807
+OP2 - Retrieve all,Read-write,777.78,0.778
+OP2 - Retrieve all,Read-write,810.02,0.81
+OP2 - Retrieve all,Read-write,781.81,0.782
+OP2 - Retrieve all,Read-write,779.56,0.78
+OP2 - Retrieve all,Read-write,787.77,0.788
+OP2 - Retrieve all,Read-write,782.07,0.782
+OP2 - Retrieve all,Read-write,792.25,0.792
+OP2 - Retrieve all,Read-write,806.68,0.807
+OP2 - Retrieve all,Read-write,808.9,0.809
+OP2 - Retrieve all,Read-write,796.76,0.797
+OP2 - Retrieve all,Read-write,822.17,0.822
+OP2 - Retrieve all,Read-write,823.47,0.823
+OP2 - Retrieve all,Read-write,820.09,0.82
+OP2 - Retrieve all,Read-write,801.93,0.802
+OP2 - Retrieve all,Read-write,798.31,0.798
+OP2 - Retrieve all,Read-write,796.28,0.796
+OP2 - Retrieve all,Read-write,797.46,0.797
+OP2 - Retrieve all,Read-write,799.62,0.8
+OP2 - Retrieve all,Read-write,795.88,0.796
+OP2 - Retrieve all,Read-write,799.33,0.799
+OP2 - Retrieve all,Read-write,799.27,0.799
+OP2 - Retrieve all,Read-write,794.42,0.794
+OP2 - Retrieve all,Read-write,793.17,0.793
+OP2 - Retrieve all,Read-write,795.42,0.795
+OP2 - Retrieve all,Read-write,800.48,0.8
+OP2 - Retrieve all,Read-write,783.31,0.783
+OP2 - Retrieve all,Read-write,796.67,0.797
+OP2 - Retrieve all,Read-write,798.4,0.798
+OP2 - Retrieve all,Read-write,801.88,0.802
+OP2 - Retrieve all,Read-write,783.78,0.784
+OP2 - Retrieve all,Read-write,796.52,0.797
+OP2 - Retrieve all,Read-write,790.43,0.79
+OP2 - Retrieve all,Read-write,788.85,0.789
+OP2 - Retrieve all,Read-write,806.94,0.807
+OP2 - Retrieve all,Read-write,782.98,0.783
+OP2 - Retrieve all,Read-write,782.4,0.782
+OP2 - Retrieve all,Read-write,782.33,0.782
+OP2 - Retrieve all,Read-write,784.48,0.784
+OP2 - Retrieve all,Read-write,788.94,0.789
+OP2 - Retrieve all,Read-write,811.13,0.811
+OP2 - Retrieve all,Read-write,808.4,0.808
+OP2 - Retrieve all,Read-write,798.59,0.799
+OP2 - Retrieve all,Read-write,804.39,0.804
+OP2 - Retrieve all,Read-write,779.91,0.78
+OP2 - Retrieve all,Read-write,781.06,0.781
+OP2 - Retrieve all,Read-write,784.29,0.784
+OP2 - Retrieve all,Read-write,800.27,0.8
+OP2 - Retrieve all,Read-write,799.88,0.8
+OP2 - Retrieve all,Read-write,783.47,0.783
+OP2 - Retrieve all,Read-write,786.15,0.786
+OP2 - Retrieve all,Read-write,783.39,0.783
+OP2 - Retrieve all,Read-write,796.1,0.796
+OP2 - Retrieve all,Read-write,780.79,0.781
+OP2 - Retrieve all,Read-write,785.61,0.786
+OP2 - Retrieve all,Read-write,805.77,0.806
+OP2 - Retrieve all,Read-write,805.92,0.806
+OP2 - Retrieve all,Read-write,807.84,0.808
+OP2 - Retrieve all,Read-write,805.01,0.805
+OP2 - Retrieve all,Read-write,800.61,0.801
+OP2 - Retrieve all,Read-write,822.5,0.823
+OP2 - Retrieve all,Read-write,780.14,0.78
+OP2 - Retrieve all,Read-write,810.0,0.81
+OP2 - Retrieve all,Read-write,807.39,0.807
+OP2 - Retrieve all,Read-write,805.59,0.806
+OP2 - Retrieve all,Read-write,802.69,0.803
+OP2 - Retrieve all,Read-write,808.97,0.809
+OP2 - Retrieve all,Read-write,803.1,0.803
+OP2 - Retrieve all,Read-write,812.86,0.813
+OP2 - Retrieve all,Read-write,807.48,0.807
+OP2 - Retrieve all,Read-write,806.33,0.806
+OP2 - Retrieve all,Read-write,780.85,0.781
+OP2 - Retrieve all,Read-write,785.39,0.785
+OP2 - Retrieve all,Read-write,808.63,0.809
+OP2 - Retrieve all,Read-write,782.06,0.782
+OP2 - Retrieve all,Read-write,785.11,0.785
+OP2 - Retrieve all,Read-write,782.74,0.783
+OP2 - Retrieve all,Read-write,799.75,0.8
+OP2 - Retrieve all,Read-write,799.47,0.799
+OP2 - Retrieve all,Read-write,778.63,0.779
+OP2 - Retrieve all,Read-write,786.9,0.787
+OP2 - Retrieve all,Read-write,785.75,0.786
+OP2 - Retrieve all,Read-write,784.35,0.784
+OP2 - Retrieve all,Read-write,786.62,0.787
+OP2 - Retrieve all,Read-write,784.48,0.784
+OP2 - Retrieve all,Read-write,800.47,0.8
+OP2 - Retrieve all,Read-write,782.05,0.782
+OP2 - Retrieve all,Read-write,783.69,0.784
+OP2 - Retrieve all,Read-write,784.42,0.784
+OP2 - Retrieve all,Read-write,804.44,0.804
+OP2 - Retrieve all,Read-write,782.98,0.783
+OP2 - Retrieve all,Read-write,827.05,0.827
+OP2 - Retrieve all,Read-write,799.36,0.799
+OP2 - Retrieve all,Read-write,797.07,0.797
+OP2 - Retrieve all,Read-write,797.81,0.798
+OP2 - Retrieve all,Read-write,800.14,0.8
+OP2 - Retrieve all,Read-write,800.32,0.8
+OP2 - Retrieve all,Read-write,798.41,0.798
+OP2 - Retrieve all,Read-write,798.09,0.798
+OP2 - Retrieve all,Read-write,799.14,0.799
+OP2 - Retrieve all,Read-write,798.93,0.799
+OP2 - Retrieve all,Read-write,794.61,0.795
+OP2 - Retrieve all,Read-write,798.79,0.799
+OP2 - Retrieve all,Read-write,795.52,0.796
+OP2 - Retrieve all,Read-write,783.9,0.784
+OP2 - Retrieve all,Read-write,782.16,0.782
+OP2 - Retrieve all,Read-write,796.2,0.796
+OP2 - Retrieve all,Read-write,800.21,0.8
+OP2 - Retrieve all,Read-write,798.84,0.799
+OP2 - Retrieve all,Read-write,804.14,0.804
+OP2 - Retrieve all,Read-write,797.69,0.798
+OP2 - Retrieve all,Read-write,780.43,0.78
+OP2 - Retrieve all,Read-write,779.13,0.779
+OP2 - Retrieve all,Read-write,829.41,0.829
+OP2 - Retrieve all,Read-write,817.03,0.817
+OP2 - Retrieve all,Read-write,824.51,0.825
+OP2 - Retrieve all,Read-write,782.38,0.782
+OP2 - Retrieve all,Read-write,779.06,0.779
+OP2 - Retrieve all,Read-write,783.06,0.783
+OP2 - Retrieve all,Read-write,788.22,0.788
+OP2 - Retrieve all,Read-write,792.22,0.792
+OP2 - Retrieve all,Read-write,803.64,0.804
+OP2 - Retrieve all,Read-write,797.74,0.798
+OP2 - Retrieve all,Read-write,799.32,0.799
+OP2 - Retrieve all,Read-write,796.05,0.796
+OP2 - Retrieve all,Read-write,794.48,0.794
+OP2 - Retrieve all,Read-write,796.03,0.796
+OP2 - Retrieve all,Read-write,785.52,0.786
+OP2 - Retrieve all,Read-write,784.49,0.784
+OP2 - Retrieve all,Read-write,780.83,0.781
+OP2 - Retrieve all,Read-write,784.31,0.784
+OP2 - Retrieve all,Read-write,798.91,0.799
+OP2 - Retrieve all,Read-write,786.36,0.786
+OP2 - Retrieve all,Read-write,788.5,0.788
+OP2 - Retrieve all,Read-write,802.26,0.802
+OP2 - Retrieve all,Read-write,795.25,0.795
+OP2 - Retrieve all,Read-write,810.88,0.811
+OP2 - Retrieve all,Read-write,801.33,0.801
+OP2 - Retrieve all,Read-write,800.29,0.8
+OP2 - Retrieve all,Read-write,801.78,0.802
+OP2 - Retrieve all,Read-write,802.37,0.802
+OP2 - Retrieve all,Read-write,808.97,0.809
+OP2 - Retrieve all,Read-write,796.13,0.796
+OP2 - Retrieve all,Read-write,803.42,0.803
+OP2 - Retrieve all,Read-write,782.28,0.782
+OP2 - Retrieve all,Read-write,801.5,0.801
+OP2 - Retrieve all,Read-write,815.41,0.815
+OP2 - Retrieve all,Read-write,787.94,0.788
+OP2 - Retrieve all,Read-write,799.03,0.799
+OP2 - Retrieve all,Read-write,787.34,0.787
+OP2 - Retrieve all,Read-write,783.68,0.784
+OP2 - Retrieve all,Read-write,805.9,0.806
+OP2 - Retrieve all,Read-write,787.28,0.787
+OP2 - Retrieve all,Read-write,799.0,0.799
+OP2 - Retrieve all,Read-write,798.73,0.799
+OP2 - Retrieve all,Read-write,799.98,0.8
+OP2 - Retrieve all,Read-write,783.82,0.784
+OP2 - Retrieve all,Read-write,799.48,0.799
+OP2 - Retrieve all,Read-write,801.57,0.802
+OP2 - Retrieve all,Read-write,783.65,0.784
+OP2 - Retrieve all,Read-write,784.43,0.784
+OP2 - Retrieve all,Read-write,784.55,0.785
+OP2 - Retrieve all,Read-write,787.08,0.787
+OP2 - Retrieve all,Read-write,780.55,0.781
+OP2 - Retrieve all,Read-write,780.03,0.78
+OP2 - Retrieve all,Read-write,790.17,0.79
+OP2 - Retrieve all,Read-write,786.55,0.787
+OP2 - Retrieve all,Read-write,782.86,0.783
+OP2 - Retrieve all,Read-write,797.21,0.797
+OP2 - Retrieve all,Read-write,787.72,0.788
+OP2 - Retrieve all,Read-write,784.35,0.784
+OP2 - Retrieve all,Read-write,788.24,0.788
+OP2 - Retrieve all,Read-write,788.83,0.789
+OP2 - Retrieve all,Read-write,800.87,0.801
+OP2 - Retrieve all,Read-write,782.42,0.782
+OP2 - Retrieve all,Read-write,799.36,0.799
+OP2 - Retrieve all,Read-write,797.35,0.797
+OP2 - Retrieve all,Read-write,789.32,0.789
+OP2 - Retrieve all,Read-write,789.58,0.79
+OP2 - Retrieve all,Read-write,785.59,0.786
+OP2 - Retrieve all,Read-write,784.17,0.784
+OP2 - Retrieve all,Read-write,783.13,0.783
+OP2 - Retrieve all,Read-write,786.97,0.787
+OP2 - Retrieve all,Read-write,790.01,0.79
+OP2 - Retrieve all,Read-write,785.52,0.786
+OP2 - Retrieve all,Read-write,794.68,0.795
+OP2 - Retrieve all,Read-write,785.67,0.786
+OP2 - Retrieve all,Read-write,782.54,0.783
+OP2 - Retrieve all,Read-write,791.96,0.792
+OP2 - Retrieve all,Read-write,802.44,0.802
+OP2 - Retrieve all,Read-write,785.03,0.785
+OP2 - Retrieve all,Read-write,779.09,0.779
+OP2 - Retrieve all,Read-write,786.38,0.786
+OP2 - Retrieve all,Read-write,789.43,0.789
+OP2 - Retrieve all,Read-write,798.61,0.799
+OP2 - Retrieve all,Read-write,802.54,0.803
+OP2 - Retrieve all,Read-write,782.13,0.782
+OP2 - Retrieve all,Read-write,780.51,0.781
+OP2 - Retrieve all,Read-write,781.73,0.782
+OP2 - Retrieve all,Read-write,785.23,0.785
+OP2 - Retrieve all,Read-write,782.38,0.782
+OP2 - Retrieve all,Read-write,789.07,0.789
+OP2 - Retrieve all,Read-write,790.61,0.791
+OP2 - Retrieve all,Read-write,808.96,0.809
+OP2 - Retrieve all,Read-write,804.68,0.805
+OP2 - Retrieve all,Read-write,805.1,0.805
+OP2 - Retrieve all,Read-write,781.6,0.782
+OP2 - Retrieve all,Read-write,806.48,0.806
+OP2 - Retrieve all,Read-write,785.43,0.785
+OP2 - Retrieve all,Read-write,790.23,0.79
+OP2 - Retrieve all,Read-write,783.69,0.784
+OP2 - Retrieve all,Read-write,789.22,0.789
+OP2 - Retrieve all,Read-write,784.34,0.784
+OP2 - Retrieve all,Read-write,782.35,0.782
+OP2 - Retrieve all,Read-write,785.62,0.786
+OP2 - Retrieve all,Read-write,787.35,0.787
+OP2 - Retrieve all,Read-write,788.58,0.789
+OP2 - Retrieve all,Read-write,802.98,0.803
+OP2 - Retrieve all,Read-write,801.13,0.801
+OP2 - Retrieve all,Read-write,788.58,0.789
+OP2 - Retrieve all,Read-write,791.52,0.792
+OP2 - Retrieve all,Read-write,787.76,0.788
+OP2 - Retrieve all,Read-write,784.71,0.785
+OP2 - Retrieve all,Read-write,790.55,0.791
+OP2 - Retrieve all,Read-write,789.16,0.789
+OP2 - Retrieve all,Read-write,789.14,0.789
+OP2 - Retrieve all,Read-write,783.3,0.783
+OP2 - Retrieve all,Read-write,784.96,0.785
+OP2 - Retrieve all,Read-write,786.94,0.787
+OP2 - Retrieve all,Read-write,786.16,0.786
+OP2 - Retrieve all,Read-write,789.03,0.789
+OP2 - Retrieve all,Read-write,791.05,0.791
+OP2 - Retrieve all,Read-write,797.0,0.797
+OP2 - Retrieve all,Read-write,796.02,0.796
